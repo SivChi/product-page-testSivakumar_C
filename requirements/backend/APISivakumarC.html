@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Sivakumar_C Back end </title>
+</head>
+<body>
+<h4 "Backend Task creation of a simple API to collect information about a product"
+
+environment installation setup complete for phpStorm 2023.2.2 which is inbetween php7.3 and php8.0 hence php version ok
+
+
+></h4>
+# get from:
+
+# https://api.akeneo.com/api-reference.html#get_products
+# https://api.akeneo.com/api-reference.html#get_products_uuid
+
+# api template:
+'''
+{
+
+_links (object) : {
+self (object ) : {
+href (string ) • URI of the current page of resources
+}
+first (object ) : {
+href (string ) • URI of the first page of resources
+}
+previous (object ) : {
+href (string ) • URI of the previous page of resources
+}
+next (object ) : {
+href (string ) • URI of the next page of resources
+}
+}
+
+current_page (integer) • Current page number
+
+_embedded (object) : {
+items (array ) : [
+{
+_links (object) : {
+self (object) : {
+href (string ) • URI of the resource
+}
+}
+uuid (string) • Product UUID
+identifier (string) • Product identifier, i.e. the value of the only `pim_catalog_identifier` attribute
+enabled (boolean) • Whether the product is enabled
+family (string) • Family code from which the product inherits its attributes and attributes requirements.
+categories (array [string ]) • Codes of the categories in which the product is classified
+groups (array [string ]) • Codes of the groups to which the product belong
+parent (string) • Code of the parent product model when the product is a variant (only available since the 2.0). This parent can be modified since the 2.3.
+values (object) : {
+attributeCode (array [object ]) • : [
+{
+scope (string ) • Channel code of the product value
+locale (string ) • Locale code of the product value
+data (object ) • Product value. See the `data` format section for more details.
+linked_data (object ) • Object containing labels of attribute options (only available since the 5.0 and when query parameter "with_attribute_options" is set to "true"). See the `linked_data` format section for more details.
+}
+]
+}
+associations (object) : {
+associationTypeCode (object) : {
+groups (array [string ] ) • Array of groups codes with which the product is in relation
+products (array [string ] ) • Array of product identifiers with which the product is in relation
+product_models (array [string ] ) • Array of product model codes with which the product is in relation (only available since the v2.1)
+}
+}
+quantified_associations (object) : {
+quantifiedAssociationTypeCode (object) : {
+products (array [object ] ) • Array of objects containing product identifiers and quantities with which the product is in relation
+product_models (array [object ] ) • Array of objects containing product model codes and quantities with which the product is in relation
+}
+}
+created (string) • Date of creation
+updated (string) • Date of the last update
+metadata (object) : {
+workflow_status (string) • Status of the product regarding the user permissions
+}
+quality_scores (object) • Product quality scores for each channel/locale combination (only available since the 5.0 and when the "with_quality_scores" query parameter is set to "true")
+completenesses (array [object ]) • Product completenesses for each channel/locale combination (only available since the 7.0 version, and when the "with_completenesses" query parameter is set to "true")
+}
+]
+}
+
+}
+'''
+# actual API from above template:
+
+# after developing, testing facility available at the web portal: https://api.akeneo.com/api-reference.html#get_products
+
+
+
+
+
+
+</body>
+</html>
