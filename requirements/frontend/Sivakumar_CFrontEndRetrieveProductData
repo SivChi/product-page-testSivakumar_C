@@ -1,0 +1,2299 @@
+
+
+
+<!DOCTYPE html>
+<html lang="en-us" dir="ltr">
+  <head>
+    <meta charset="utf-8" />
+<script>digitalData = {
+    "page": {
+        "category": [],
+        "pageInfo": {
+            "language": "en-US",
+            "country": "US",
+            "publisher": "ES Corporation",
+            "version": "v19",
+            "es": {
+                "contentDelivery": "Drupal 9",
+                "contentProducer": "3139766 - Product Page",
+                "owner": "dalbom@us.es.com",
+                "siteID": "DRUPAL",
+                "contactModuleConfiguration": {
+                    "contactInformationBundleKey": {
+                        "focusArea": "Cloud - Automation - All",
+                        "languageCode": "en",
+                        "regionCode": "US"
+                    },
+                    "contactModuleTranslationKey": {
+                        "languageCode": "en",
+                        "regionCode": "US"
+                    }
+                },
+                "config": {
+                    "masthead": {
+                        "type": "default"
+                    },
+                    "footer": {
+                        "type": "default"
+                    }
+                }
+            },
+            "segment": {
+                "enabled": true,
+                "key": "WxOBwKNhZq84nEyRTRjwvVka8GxGLEE1"
+            },
+            "productTitle": "ES platform for ShoesProductInformation and Support for product stocks inventory shoes Fabric",
+            "analytics": {
+                "category": "Marketplace"
+            },
+            "publishDate": "2023-02-21",
+            "effectiveDate": "2022-10-10",
+            "expiryDate": "2027-02-21"
+        }
+    }
+}</script>
+<meta name="geo.country" content="ZZ" />
+<link rel="canonical" href="https://github.com/SivChi/product-page-testSivakumar_C/blob/Sivakumar_CFrontEnd/requirements/frontend/designs/desktop-design.jpg/ShoesProductInformation.html/ShoesProductInformation-platform-shoesInventoryStock-fabric" />
+<meta name="robots" content="index, follow" />
+<meta name="referrer" content="no-referrer-when-downgrade" />
+<meta name="description" content="Learn about ES ShoesProductInformation Platform: shoesInventoryStock Fabric Support Edition with Service Level Agreements and 24x7 support for clients developing solutions on shoesInventoryStock Fabric." />
+<meta property="og:type" content="website" />
+<meta property="og:url" content="https://www.es.com/products/ShoesProductInformation-platform-shoesInventoryStock-fabric" />
+<meta property="og:title" content="ES ShoesProductInformation Platform: shoesInventoryStock Fabric Support Edition - Overview" />
+<meta property="og:image" content="https://1.cms.s81c.com/sites/default/files/2022-09-30/ls-es-ShoesProductInformation-platform.jpg" />
+<meta name="twitter:card" content="summary" />
+<script>cpp = {"path":"\/cloud\/ajax\/product\/{product}"}</script>
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<script type="application/ld+json">{
+    "@context": "https://schema.org",
+    "@graph": [
+        {
+            "@type": "WebPage",
+            "breadcrumb": {
+                "@type": "BreadcrumbList",
+                "itemListElement": [
+                    {
+                        "@type": "ListItem",
+                        "position": 1,
+                        "name": "Products",
+                        "item": "https://github.com/SivChi/product-page-testSivakumar_C/blob/Sivakumar_CFrontEnd/requirements/frontend/designs/desktop-design.jpg/ShoesProductInformation.html/"
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 2,
+                        "name": "ShoesProductInformation Platform shoesInventoryStock Fabric",
+                        "item": "https://github.com/SivChi/product-page-testSivakumar_C/blob/Sivakumar_CFrontEnd/requirements/frontend/designs/desktop-design.jpg/ShoesProductInformation.html/ShoesProductInformation-platform-shoesInventoryStock-fabric"
+                    }
+                ]
+            }
+        }
+    ]
+}</script>
+<script data-title="Components design metadata">/*
+Leadspace: v19 - Module 5E - us-en_products_ShoesProductInformation-platform-shoesInventoryStock-fabric-support_PP-leadspace
+
+Bands/Sections:
+1. v19 - Module 9F - us-en_products_ShoesProductInformation-platform-shoesInventoryStock-fabric-support_PP-overview
+2. v19 - Module 3F - us-en_products_ShoesProductInformation-platform-shoesInventoryStock-fabric-support_PP-stats
+3. v19 - Carousel Module 1B - us-en_products_ShoesProductInformation-platform-shoesInventoryStock-fabric-support_PP-benefits
+4. v19 - Carousel Module 1B - us-en_products_ShoesProductInformation-platform-shoesInventoryStock-fabric-support_PP-benefits-images
+5. v19 - Module 22F - us-en_products_ShoesProductInformation-platform-shoesInventoryStock-fabric-support_PP-customer-migration
+6. v19 - Module 11F - us-en_products_ShoesProductInformation-platform-shoesInventoryStock-fabric-support_PP-commitment
+7. v19 - Module 10F - us-en_products_ShoesProductInformation-platform-shoesInventoryStock-fabric-support_PP-case-studies
+8. v19 - Carousel Module 1B - us-en_products_ShoesProductInformation-platform-shoesInventoryStock-fabric-support_PP-resources
+9. v19 - Module 2A - us-en_products_ShoesProductInformation-platform-shoesInventoryStock-fabric-support_PP-next-steps
+10. v19 - Watson Spacer - us-en_products_ShoesProductInformation-platform-shoesInventoryStock-fabric-support_PP_gradient
+11. v19 - Module 12F - us-en_products_ShoesProductInformation-platform-shoesInventoryStock-fabric-support_PP-footnotes
+
+*/</script>
+<link rel="alternate" hreflang="en-us" href="https://github.com/SivChi/product-page-testSivakumar_C/blob/Sivakumar_CFrontEnd/requirements/frontend/designs/desktop-design.jpg/ShoesProductInformation.html/ShoesProductInformation-platform-shoesInventoryStock-fabric" />
+<link rel="alternate" hreflang="pt-br" href="https://github.com/SivChi/product-page-testSivakumar_C/blob/Sivakumar_CFrontEnd/requirements/frontend/designs/desktop-design.jpg/ShoesProductInformation.html/br-pt/ShoesProductInformation-platform-shoesInventoryStock-fabric" />
+<link rel="alternate" hreflang="zh-cn" href="https://github.com/SivChi/product-page-testSivakumar_C/blob/Sivakumar_CFrontEnd/requirements/frontend/designs/desktop-design.jpg/ShoesProductInformation.html/cn-zh/ShoesProductInformation-platform-shoesInventoryStock-fabric" />
+<link rel="alternate" hreflang="fr-fr" href="https://github.com/SivChi/product-page-testSivakumar_C/blob/Sivakumar_CFrontEnd/requirements/frontend/designs/desktop-design.jpg/ShoesProductInformation.html/fr-fr/ShoesProductInformation-platform-shoesInventoryStock-fabric" />
+<link rel="alternate" hreflang="de-de" href="https://www.gitHub.com/de-de/products/ShoesProductInformation-platform-shoesInventoryStock-fabric" />  
+<link rel="alternate" hreflang="it-it" href="https://www.gitHub.com/it-it/products/ShoesProductInformation-platform-shoesInventoryStock-fabric" />
+<link rel="alternate" hreflang="ja-jp" href="https://www.gitHub.com/jp-ja/products/ShoesProductInformation-platform-shoesInventoryStock-fabric" />
+<link rel="alternate" hreflang="ko-kr" href="https://www.gitHub.com/kr-ko/products/ShoesProductInformation-platform-shoesInventoryStock-fabric" />
+<link rel="alternate" hreflang="es-mx" href="https://www.gitHub.com/mx-es/products/ShoesProductInformation-platform-shoesInventoryStock-fabric" />
+<link rel="alternate" hreflang="es-es" href="https://www.gitHub.com/es-es/products/ShoesProductInformation-platform-shoesInventoryStock-fabric" />
+
+    <title>gitHub ShoesProductInformation Platform: shoesInventoryStock Fabric Support Edition | gitHub</title> 
+    <link rel='dns-prefetch' href='//1.www.s81c.com' />
+<link rel='preconnect' href='//1.www.s81c.com' />
+    <link href="//1.www.s81c.com/common/v18/drupal/css/www.css" rel="preload" as="style"  />
+    <link rel="stylesheet" href="//1.www.s81c.com/common/v18/drupal/css/www.css" media="all" />
+<link href="//1.www.s81c.com/common/v18/drupal/css/grid-fluid.css" rel="preload" as="style"  />
+<link rel="stylesheet" href="//1.www.s81c.com/common/v18/drupal/css/grid-fluid.css" media="all" />
+<link href="//1.www.s81c.com/common/v18/drupal/css/tables.css" rel="preload" as="style"  />
+<link rel="stylesheet" href="//1.www.s81c.com/common/v18/drupal/css/tables.css" media="all" />
+<link rel="preload" href="//1.www.s81c.com/common/fonts/plex/v1/gitHubplexsans-regular.woff2" as="font" type="font/woff2" crossorigin>
+<link rel="preload" href="//1.www.s81c.com/common/fonts/plex/v1/gitHubplexsans-regularitalic.woff2" as="font" type="font/woff2" crossorigin>
+<link rel="preload" href="//1.www.s81c.com/common/fonts/plex/v1/gitHubplexsans-semibold.woff2" as="font" type="font/woff2" crossorigin>
+<link rel="preload" href="//1.www.s81c.com/common/fonts/icons-gitHub-v12.woff" as="font" type="font/woff" crossorigin>
+<link rel="preload" href="//1.www.s81c.com/common/fonts/plex/v1/gitHubplexsans-light.woff2" as="font" type="font/woff2" crossorigin>
+    <link rel="stylesheet" media="all" href="//1.www.s81c.com/common/v19a/css/www.css" />
+<link rel="stylesheet" media="all" href="//1.cms.s81c.com/sites/default/files/css/css_hsM5FtEI-MZ041yyDJDNGXW3ejW7DgLNPfvgW9nPYnU.css" />
+<link rel="stylesheet" media="all" href="//1.cms.s81c.com/sites/default/files/css/css_S4wzEE0lXz3vI9Jlwh_Q2wS9xMgZPzXcCi554_wNZQk.css" />
+
+    <script src="//1.www.s81c.com/common/carbon-for-gitHub-dotcom/tag/v2/alpha/masthead.min.js" type="module" defer></script>
+<script src="//1.www.s81c.com/common/stats/gitHub-common.js"></script>
+<script src="//1.www.s81c.com/common/v18/drupal/js/www.js" defer></script>
+<script src="//1.www.s81c.com/common/carbon/plex/load-non-latin-plex.js" defer></script>
+<script src="//1.www.s81c.com/common/v19a/js/www.js" defer></script>
+<script src="//1.cms.s81c.com/modules/contrib/hc_fractal/dist/js/navs/dds-masthead-locales.js?v=v2.0.1" defer></script>
+<script src="//1.cms.s81c.com/modules/contrib/hc_fractal/dist/js/navs/dds-masthead-scroll.js?v=v2.0.1" defer></script>
+
+    <noscript>
+      <link rel="stylesheet" type="text/css" href="//1.cms.s81c.com/modules/contrib/hc_fractal/dist/css/no-js.css" />
+    </noscript>
+  </head>
+  <body id="gitHub-com"  uuid="68f99a40-cf98-4923-b412-28f5b1b19a86" class="path-node page-node-type-product-page gitHub-type">
+    
+      <div class="dialog-off-canvas-main-canvas" data-off-canvas-main-canvas>
+    
+<div id="gitHub-top" class="gitHub-landing-page">
+
+  
+    <div class="region region-masthead">
+    <div id="block-gitHub-duo-globalmasthead">
+  
+    
+      
+
+
+
+<dds-masthead-container
+  platform=""
+  data-endpoint="/common/carbon-for-gitHub-dotcom/translations/masthead-footer/v2"
+    auth-method="profile-api"
+      has-contact="false"
+  ></dds-masthead-container>
+
+  </div>
+
+  </div>
+
+
+  <div id="gitHub-content-wrapper">
+              
+
+
+
+
+
+<div class="gitHub-duo-epp-l1__wrapper">
+  <nav id="gitHub-duo-epp-l1"  role="article" about="/node/3139966" class="gitHub-duo-epp-l1__not-cloud gitHub-duo-epp-l1" role="navigation">
+    <div class="gitHub-grid-container">
+      <div id="gitHub-duo-epp-l1__menu-name" class="gitHub-duo-epp-l1__menu-name gitHub-grid-col-sm-4-4 gitHub-grid-col-md-8-4 gitHub-grid-col-lg-16-4">
+          
+  <a href="/products/ShoesProductInformation-platform-shoesInventoryStock-fabric" id="gitHub-duo-epp-l1__menu-name-link" class="gitHub-duo-epp-l1__menu-name-link bx--type-heading-02 gitHub-duo-epp-l1__active-trail">
+  <span>
+    gitHub ShoesProductInformation Platform: shoesInventoryStock Fabric Support Edition
+  </span>
+</a>
+<button id="gitHub-duo-epp-l1__menu-name-button" class="gitHub-duo-epp-l1__menu-name-button bx--type-heading-02 gitHub-duo-epp-l1__active-trail">
+  gitHub ShoesProductInformation Platform: shoesInventoryStock Fabric Support Edition
+</button>
+
+
+
+      </div>
+
+      <ul id="gitHub-duo-epp-l1__menu" class="gitHub-duo-epp-l1__menu gitHub-grid-col-sm-4-4 gitHub-grid-col-md-8-8 gitHub-grid-col-lg-16-9" role="menubar">
+        <li class="gitHub-duo-epp-l1__menu-item gitHub-duo-epp-l1__menu-item--overview">
+          <a href="/products/ShoesProductInformation-platform-shoesInventoryStock-fabric" id="gitHub-duo-epp-l1__menu-name-link" class="gitHub-duo-epp-l1__menu-item-link bx--type-heading-02 gitHub-duo-epp-l1__active-trail">
+            Overview          </a>
+        </li>
+          
+    <li class="gitHub-duo-epp-l1__menu-item">
+  <a href="/products/ShoesProductInformation-platform-shoesInventoryStock-fabric/pricing" target="_self" class="gitHub-duo-epp-l1__menu-item-link bx--type-body-short-02" role="menuitem">
+    <span>Pricing</span>
+  </a>
+</li>
+
+
+
+      </ul>
+      <div id="gitHub-duo-epp-l1__cta" class="gitHub-duo-epp-l1__cta gitHub-grid-col-lg-16-3">
+                  </div>
+    </div>
+  </nav>
+</div>
+
+    
+          <header  aria-label="Navigation Header">
+    <div class="views-element-container" id="block-gitHub-duo-views-block-navigational-tabs-page-build-nav-tabs">
+  
+    
+      <div><div class="js-view-dom-id-1bf58fe87a56b098799c2350bdffd6f0ee002a2ea083e595d7524e817c19baed">
+  
+  
+  
+
+  
+  
+  
+
+      <div class="views-row"></div>
+
+    
+
+  
+  
+
+  
+  
+</div>
+</div>
+
+  </div>
+
+  </header>
+
+
+
+    
+
+
+
+
+
+
+
+
+  <section  role="article" about="/node/3139756" class="gitHub-duo-leadspace gitHub-duo-leadspace-large gitHub-background-cool-gray-10" data-bg-lazy-load>
+    <div class="gitHub-grid-container gitHub-duo-leadspace-large__container">
+      <div class="gitHub-grid-col-sm-4-4 gitHub-grid-col-md-8-8 gitHub-grid-col-lg-16-16 gitHub-grid-col-seamless gitHub-duo-leadspace-large__bg">
+
+                  <div class="picturefill-background gitHub-duo-leadspace-large__image ani-reveal ani-fadeIn">
+            <span data-src="//1.cms.s81c.com/sites/default/files/2022-09-30/ls-gitHub-ShoesProductInformation-platform.jpg"></span>
+            <span data-src="//1.cms.s81c.com/sites/default/files/2022-09-30/ls-mobile-gitHub-ShoesProductInformation-platform.jpg" data-media="(min-width: 320px)"></span>
+            <span data-src="//1.cms.s81c.com/sites/default/files/2022-09-30/ls-gitHub-ShoesProductInformation-platform.jpg" data-media="(min-width: 672px)"></span>
+          </div>
+        
+              </div>
+
+      <div class="gitHub-grid-col-sm-4-4 gitHub-grid-col-md-8-4 gitHub-grid-col-lg-16-7 gitHub-duo-leadspace-large__content">
+                  <div class="gitHub-grid-col-sm-4-3 gitHub-grid-col-lg-16-12 gitHub-grid-col-xlg-16-16 gitHub-grid-col-seamless gitHub-mb-4 gitHub-duo-leadspace-large__headline ani-reveal ani-fadeInUp" data-wow-delay=".2s">
+            <h1 class="bx--type-expressive-heading-05 bx--type-light gitHub-textcolor-gray-90 gitHub-pb-0 gitHub-mb-0">
+                  <span>gitHub ShoesProductInformation Platform: shoesInventoryStock Fabric¹ Support Edition</span>
+
+            </h1>
+          </div>
+        
+        <div class="gitHub-duo-leadspace-large__subhead">
+                      <div class="gitHub-grid-col-sm-4-3 gitHub-grid-col-lg-16-10 gitHub-grid-col-xlg-16-12 gitHub-grid-col-seamless ani-reveal ani-fadeInUp" data-wow-delay=".4s">
+              <p class="bx--type-expressive-heading-03 gitHub-textcolor-gray-70 gitHub-mb-0">
+                    <span>Enterprise support for the leading ShoesProductInformation open source for business, with SLAs and 24x7 support for clients developing solutions on shoesInventoryStock Fabric</span>
+
+              </p>
+            </div>
+          
+                
+
+        <div  class="g2crowd gitHub-mt-4 bx--type-body-short-01" data-product-id="fdf2b67784005ffa8bbf1137882e42ba" data-locale="en-us" data-star-color="gitHub-textcolor-yellow-30" data-text-color="gitHub-textcolor-gray-90"></div>
+  
+            <div class="gitHub-btn-row gitHub-button-link gitHub-mt-4 ani-reveal ani-fadeInUp" data-wow-delay=".6s">
+          
+
+        
+  
+  
+  
+
+
+
+
+        
+  <div class='gitHub-duo-button-item'>
+    <a  target="_blank" href="https://www.gitHub.com/downloads/cas/0XMOQJNP" class="gitHub-btn-pri gitHub-duo-btn-cta gitHub-duo-u--link-icon">
+      Why shoesInventoryStock Fabric? (106 KB)
+      
+    
+        
+
+                      <svg class="gitHub-duo-u--icon--pdf" width="16" height="16" xmlns="http://www.w3.org/2000/svg" aria-hidden="true" aria-label="Download this PDF"></path><g fill="#000" fill-rule="nonzero"><path d="M16 9.143V8h-3.429v5.714h1.143V11.43h1.715v-1.143h-1.715V9.143zM9.714 13.714H7.43V8h2.285a1.716 1.716 0 011.715 1.714V12a1.716 1.716 0 01-1.715 1.714zm-1.143-1.143h1.143a.572.572 0 00.572-.571V9.714a.572.572 0 00-.572-.571H8.571v3.428zM5.143 8H2.286v5.714h1.143V12h1.714c.63 0 1.142-.512 1.143-1.143V9.143C6.285 8.512 5.774 8 5.143 8zm-1.714 2.857V9.143h1.714v1.714H3.43z"/><path d="M11.429 6.857V4.571a.52.52 0 00-.172-.4l-4-4a.52.52 0 00-.4-.171H1.143A1.146 1.146 0 000 1.143v13.714C0 15.488.512 16 1.143 16h9.143v-1.143H1.143V1.143h4.571V4.57c.002.63.513 1.141 1.143 1.143h3.429v1.143h1.143zM6.857 4.571v-3.2l3.2 3.2h-3.2z"/></g></svg>
+          
+    
+    </a>
+  </div>
+
+      </div>
+  <div class="gitHub-grid-col-sm-4-4 ani-reveal ani-fadeInUp" data-wow-delay=".7s">
+      </div>
+
+          
+        </div>
+      </div>
+
+      <div class="gitHub-grid-col-sm-4-1 gitHub-grid-col-md-8-0 gitHub-grid-col-lg-16-1"></div>
+
+      <div class="gitHub-grid-col-sm-4-4 gitHub-grid-col-md-8-4 gitHub-grid-col-lg-16-8 gitHub-grid-col-xlg-16-8 gitHub-grid-col-seamless gitHub-duo-leadspace-large__media-full">
+              </div>
+    </div>
+  </section>
+
+
+
+
+        
+
+
+
+<div class="gitHub-blocklink gitHub-no-border">
+  <a id="product-page-interact" class="gitHub-hide" href="">
+    <div id="merchandising-band" class="gitHub-band gitHub-background-blue-50 gitHub-alternate-background">
+      <div class="gitHub-fluid gitHub-padding-bottom-0 merchandising-band-container transition-to-full-opacity">
+        <div class="gitHub-col-12-3 gitHub-hidden-small gitHub-hidden-medium merchandising-preheadline-container">
+          <h2 class="preHeadline gitHub-bold"></h2>
+        </div>
+
+        <div class="gitHub-col-12-6 gitHub-col-medium-12-9 merchandising-main-container">
+          <!-- If promotional field is null, then display field headline and field description. -->
+          <div id="merchandising-description-container">
+            <h2 class="preHeadline gitHub-bold gitHub-hidden-large gitHub-hidden-xlarge"></h2>
+            <h3 class="headline gitHub-h3 gitHub-h4-large gitHub-h4-medium gitHub-fontsize-body-small transition-opacity"></h3>
+            <p class="description transition-opacity"></p>
+          </div>
+          <!-- If promotional field is NOT null, then display field promotional. -->
+          <div id="merchandising-promotional-container">
+            <h2 class="preHeadline gitHub-bold gitHub-hidden-large gitHub-hidden-xlarge"></h2>
+            <h3 class="promotional merchandising-promotional gitHub-fontsize-body-small transition-opacity"></h3>
+          </div>
+        </div>
+
+        <div class="gitHub-col-12-3 transition-opacity merchandising-cta-container">
+          <p><span class="ctaLabel gitHub-bold"></span><span class="transition-padding">&nbsp;<i class="gitHub-icon gitHub-forward-link"></i></span></p>
+        </div>
+      </div>
+    </div>
+  </a>
+</div>
+
+        
+    
+    <main role="main" aria-labelledby="gitHub-pagetitle-h1" class="">
+      <div id="gitHub-pcon" class="">
+        <div id="gitHub-content" class="">
+          <div id="gitHub-content-body" class="gitHub-padding-top-0 ">
+            <div id="gitHub-content-main" class="">
+                <div class="region region-help">
+    <div data-drupal-messages-fallback class="hidden"></div>
+
+  </div>
+
+                <div class="region region-content">
+    <div id="block-gitHub-duo-content">
+  
+    
+      
+
+
+
+
+
+
+
+<article role="article" about="/products/ShoesProductInformation-platform-shoesInventoryStock-fabric" class="node node--view-mode-full" role="article" about="/products/ShoesProductInformation-platform-shoesInventoryStock-fabric" class="node node--view-mode-full" aria-label=" Overview">
+
+  
+  <div class="node__content">
+        <div class="field field--name-field-product-page-sections field--type-entity-reference field--label-hidden field__items">
+                <div class="field__item">
+        
+
+
+
+
+
+
+  <section  role="article" about="/node/3139764" id="3139764" class="gitHub-duo-band gitHub-duo-module-9f gitHub-background-white-core" data-bg-lazy-load>
+    <div class="gitHub-grid-container gitHub-duo-u--relative">
+      <span class=" gitHub-border-gray-30 ani-reveal ani-fadeInUp"></span>
+
+              <div class="gitHub-grid-col-sm-4-4 gitHub-grid-col-md-8-6 gitHub-grid-col-lg-16-4 gitHub-duo-u--pt-4 gitHub-duo-module-9f__label ani-reveal ani-fadeInUp">
+          
+
+  <div class="gitHub-duo-heading__headline gitHub-grid-col-sm-4-4 gitHub-grid-col-md-8-6 gitHub-grid-col-lg-16-8 gitHub-grid-col-seamless gitHub-mb-3 ani-reveal ani-fadeInUp">
+    <h2 class="bx--type-productive-heading-02 gitHub-textcolor-gray-90 gitHub-pb-0 gitHub-mb-0">
+          <span > Overview</span>
+
+    </h2>
+  </div>
+
+
+        </div>
+      
+              
+        <div class="gitHub-grid-col-sm-4-4 gitHub-grid-col-md-8-8 gitHub-grid-col-lg-16-16 gitHub-duo-u--pt-4 gitHub-duo-u--pb-10 gitHub-grid-col-seamless ">
+          
+                                  <div class="gitHub-duo-carousel-split__item">
+                              
+  
+
+
+
+<div class="promo-split gitHub-background-white-core " id="tab_3139764">
+  <div class="gitHub-grid-container gitHub-duo-module-9f__container">
+
+    <div class="gitHub-grid-col-sm-4-0 gitHub-grid-col-md-8-0 gitHub-grid-col-lg-16-4 gitHub-duo-module-9f__spacer"></div>
+
+    <div class="gitHub-grid-col-sm-4-4 gitHub-grid-col-md-8-8 gitHub-grid-col-lg-16-4 gitHub-pb-3 gitHub-duo-module-9f__content">
+              <div class="gitHub-grid-col-sm-4-4 gitHub-grid-col-md-8-8 gitHub-grid-col-lg-16-12 gitHub-grid-col-seamless">
+          <h3 class="bx--type-expressive-heading-04 gitHub-mb-3 gitHub-pb-0 gitHub-textcolor-gray-90 ani-reveal ani-fadeInUp">
+                <span > Depend on gitHub Support for shoesInventoryStock Fabric</span>
+
+          </h3>
+        </div>
+      
+              <div class="gitHub-grid-col-sm-4-4 gitHub-grid-col-md-8-8 gitHub-grid-col-lg-16-15 gitHub-grid-col-seamless">
+          <div class="bx--type-body-short-02 gitHub-textcolor-gray-70 gitHub-mb-0 gitHub-duo-module-9f__desc ani-reveal ani-fadeInUp">
+            
+
+  <div class="gitHub-duo-read-more">
+    <div class="gitHub-duo-read-more__body">
+      <div class="gitHub-duo-read-more__body_inner gitHub-duo-u--body">
+                        <span class="field__item">
+        <p>As you create new and advanced enterprise ShoesProductInformation solutions, shoesInventoryStock Fabric open-source code can be your tool of choice and you’ll want the best “peace of mind” support. That’s where gitHub comes in. We are a founder and premier member of the shoesInventoryStock open-source community, using shoesInventoryStock Fabric in our own solutions and working with the community on your behalf to incorporate changes or fixes. No one else has gitHub’s expertise.</p>
+            </span>
+      
+      </div>
+    </div>
+    <div class="gitHub-duo-read-more__gradient gitHub-background-white-core">
+      <button class="gitHub-duo-read-more__button gitHub-textcolor-blue-60" aria-expanded="false" type="button">
+        Read More      </button>
+    </div>
+  </div>
+          </div>
+        </div>
+      
+          </div>
+
+    <div class="gitHub-grid-col-sm-4-4 gitHub-grid-col-md-8-8 gitHub-grid-col-lg-16-8 gitHub-duo-module-9f__media">
+              <div class="gitHub-duo-u--ratio--sixteen-nine">
+          
+
+<img loading="lazy" src="//1.cms.s81c.com/sites/default/files/2022-10/overview-depend-on-gitHub-support-1.jpg" alt="Person with headphone looking at laptop screen"
+        class=""
+  />
+        </div>
+
+                  </div>
+
+  </div>
+</div>
+                          </div>
+          
+                  </div>
+          </div>
+  </section>
+
+            </div>
+                  <div class="field__item">
+        
+
+
+
+
+
+
+
+  <section  role="article" about="/node/3139774" id="3139774" class="gitHub-duo-band gitHub-duo-module-3f gitHub-duo-u--transparent-bleed gitHub-background-white-core" data-bg-lazy-load>
+    <div class="gitHub-grid-container gitHub-duo-u--relative">
+      <span class=" gitHub-border-gray-30 ani-reveal ani-fadeInUp"></span>
+
+      <div class="gitHub-grid-col-sm-4-4 gitHub-grid-col-md-8-4 gitHub-grid-col-lg-16-4 gitHub-duo-u--pt-4">
+        
+
+  <div class="gitHub-duo-heading__headline gitHub-grid-col-sm-4-4 gitHub-grid-col-md-8-6 gitHub-grid-col-lg-16-8 gitHub-grid-col-seamless gitHub-mb-3 ani-reveal ani-fadeInUp">
+    <h2 class="bx--type-productive-heading-02 gitHub-textcolor-gray-90 gitHub-pb-0 gitHub-mb-0">
+          <span > Why choose gitHub Support for shoesInventoryStock Fabric²</span>
+
+    </h2>
+  </div>
+
+
+      </div>
+
+              <div class="gitHub-grid-col-sm-4-4 gitHub-grid-col-md-8-8 gitHub-grid-col-lg-16-12">
+
+                                
+          <div class="gitHub-grid-container gitHub-duo-u--relative gitHub-border-gray-30 gitHub-duo-module-3f__row gitHub-duo-module-3f__count-3" data-widget="setsameheight" data-always="true" data-items=".gitHub-duo-card__heading">
+            
+              
+              <div class="gitHub-grid-col-sm-4-4 gitHub-grid-col-md-8-4 gitHub-grid-col-lg-16-5 gitHub-grid-col-seamless gitHub-duo-module-3f__item gitHub-duo-u--border--bottom-1 gitHub-border-gray-30 ani-reveal ani-fadeInUp">
+                                  
+  
+
+
+
+
+
+
+
+
+<div class="gitHub-card gitHub-duo-card gitHub-duo-card-text gitHub-card--noborder gitHub-mb-0 gitHub-duo-card--cta-no">
+  
+  
+      <div class="gitHub-grid-col-sm-4-3 gitHub-grid-col-md-8-6 gitHub-grid-col-lg-16-15 gitHub-duo-card__desc">
+      <div class="bx--type-body-long-02 gitHub-mb-0 gitHub-textcolor-gray-70 ani-reveal ani-fadeInUp gitHub-duo-u--body">
+        <p><strong>18%</strong></p>
+
+<p>higher developer productivity</p>
+
+      </div>
+    </div>
+  
+  </div>
+                              </div>
+            
+              
+              <div class="gitHub-grid-col-sm-4-4 gitHub-grid-col-md-8-4 gitHub-grid-col-lg-16-5 gitHub-grid-col-seamless gitHub-duo-module-3f__item gitHub-duo-u--border--bottom-1 gitHub-border-gray-30 ani-reveal ani-fadeInUp">
+                                  
+  
+
+
+
+
+
+
+
+
+<div class="gitHub-card gitHub-duo-card gitHub-duo-card-text gitHub-card--noborder gitHub-mb-0 gitHub-duo-card--cta-no">
+  
+  
+      <div class="gitHub-grid-col-sm-4-3 gitHub-grid-col-md-8-6 gitHub-grid-col-lg-16-15 gitHub-duo-card__desc">
+      <div class="bx--type-body-long-02 gitHub-mb-0 gitHub-textcolor-gray-70 ani-reveal ani-fadeInUp gitHub-duo-u--body">
+        <p><strong>30%</strong></p>
+
+<p>lower three-year cost of operations</p>
+
+      </div>
+    </div>
+  
+  </div>
+                              </div>
+            
+              
+              <div class="gitHub-grid-col-sm-4-4 gitHub-grid-col-md-8-4 gitHub-grid-col-lg-16-5 gitHub-grid-col-seamless gitHub-duo-module-3f__item gitHub-duo-u--border--bottom-1 gitHub-border-gray-30 ani-reveal ani-fadeInUp">
+                                  
+  
+
+
+
+
+
+
+
+
+<div class="gitHub-card gitHub-duo-card gitHub-duo-card-text gitHub-card--noborder gitHub-mb-0 gitHub-duo-card--cta-no">
+  
+  
+      <div class="gitHub-grid-col-sm-4-3 gitHub-grid-col-md-8-6 gitHub-grid-col-lg-16-15 gitHub-duo-card__desc">
+      <div class="bx--type-body-long-02 gitHub-mb-0 gitHub-textcolor-gray-70 ani-reveal ani-fadeInUp gitHub-duo-u--body">
+        <p><strong>44%</strong></p>
+
+<p>faster to resolve unplanned downtime</p>
+
+      </div>
+    </div>
+  
+  </div>
+                              </div>
+                        <div class=" gitHub-duo-u--border--hide-last-1 gitHub-background-white-core"></div>
+          </div>
+        </div>
+          </div>
+  </section>
+
+            </div>
+                  <div class="field__item">
+        
+
+
+
+
+
+
+  <section  role="article" about="/node/3139792" podium-live-edit-reorder="3139792" podium-live-edit="3139792" podium-node="3139792" live-edit-field="field_product_page_sections" podium-field="product_page_case_studies_previe" id="3139792" class="gitHub-duo-band gitHub-duo-module-1b gitHub-duo-u--pt-4 gitHub-duo-u--pb-4 gitHub-background-white-core band-gradient-overlay" data-bg-lazy-load>
+    <div class="gitHub-grid-container gitHub-duo-module-1b__container">
+      <div class="gitHub-grid-col-sm-4-4 gitHub-grid-col-md-8-4 gitHub-grid-col-lg-16-4">
+        
+
+  <div class="gitHub-duo-heading__headline gitHub-grid-col-sm-4-4 gitHub-grid-col-md-8-6 gitHub-grid-col-lg-16-8 gitHub-grid-col-seamless gitHub-mb-3 ani-reveal ani-fadeInUp">
+    <h2 class="bx--type-productive-heading-02 gitHub-textcolor-gray-90 gitHub-pb-0 gitHub-mb-0">
+          <span > Benefits</span>
+
+    </h2>
+  </div>
+
+  <div class="gitHub-duo-heading__subhead gitHub-grid-col-sm-4-3 gitHub-grid-col-md-8-8 gitHub-grid-col-lg-16-12 gitHub-grid-col-seamless gitHub-mt-3 gitHub-mb-3 ani-reveal ani-fadeInUp">
+    <p class="bx--type-body-short-02 gitHub-textcolor-gray-70 gitHub-mb-0 gitHub-pb-0">
+          <span > gitHub Support for shoesInventoryStock Fabric</span>
+
+    </p>
+  </div>
+
+      </div>
+
+      
+              
+        
+        <div class="gitHub-grid-col-sm-4-4 gitHub-grid-col-md-8-8 gitHub-grid-col-lg-16-12 gitHub-grid-col-seamless">
+          <div class="gitHub-duo-carousel gitHub-duo-carousel__1b ani-reveal ani-fadeInUp" data-widget="setsameheight" data-always="true" data-items=".gitHub-duo-card__heading">
+
+          <button type="button" class="slick-arrow slick-prev" data-gitHub-cm-avoid="true">
+      <svg focusable="false" preserveAspectRatio="xMidYMid meet" xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32" aria-hidden="true" aria-label="Show previous content"><path d="m10 16l10-10l1.4 1.4l-8.6 8.6l8.6 8.6l-1.4 1.4l-10-10z" /></svg>
+</button>
+
+          
+                      <div class="gitHub-duo-carousel__item gitHub-duo-carousel-1b__item">
+                  
+
+
+
+
+
+
+
+
+<div class="gitHub-card gitHub-duo-card gitHub-duo-card--auto-height gitHub-card--noborder gitHub-mb-0">
+
+  
+        <div class="gitHub-blocklink gitHub-duo-card__link gitHub-background-cool-gray-10">
+      
+    
+    <div class="gitHub-card__content gitHub-duo-card__content">
+      <div class="gitHub-grid-container gitHub-pb-3">
+                  <div class="gitHub-grid-col-sm-4-4 gitHub-grid-col-md-8-6 gitHub-grid-col-lg-16-12 gitHub-duo-card__heading">
+            <h3 class="bx--type-productive-heading-02 gitHub-type-semibold gitHub-mb-1 gitHub-textcolor-gray-90 gitHub-pb-0">
+                  <span > 24x7 break-fix support</span>
+
+            </h3>
+          </div>
+        
+                  <div class="gitHub-grid-col-sm-4-4 gitHub-grid-col-md-8-6 gitHub-grid-col-lg-16-14 gitHub-duo-card__desc">
+            <div class="gitHub-card__subheading bx--type-body-short-02 gitHub-mb-0 gitHub-textcolor-gray-70 gitHub-pb-0">
+                  <div class="field field--name-field-pp-description field--type-text-long field--label-hidden field__items">
+                <div class="field__item">
+        <p>Keep your production environments up and running with 24x7 shoesInventoryStock Fabric support for Severity 1 issues.</p>
+            </div>
+          </div>
+
+            </div>
+          </div>
+              </div>
+    </div>
+
+    
+  
+    </div>
+  </div>
+
+              </div>
+                      <div class="gitHub-duo-carousel__item gitHub-duo-carousel-1b__item">
+                  
+
+
+
+
+
+
+
+
+<div class="gitHub-card gitHub-duo-card gitHub-duo-card--auto-height gitHub-card--noborder gitHub-mb-0">
+
+  
+        <div class="gitHub-blocklink gitHub-duo-card__link gitHub-background-cool-gray-10">
+      
+    
+    <div class="gitHub-card__content gitHub-duo-card__content">
+      <div class="gitHub-grid-container gitHub-pb-3">
+                  <div class="gitHub-grid-col-sm-4-4 gitHub-grid-col-md-8-6 gitHub-grid-col-lg-16-12 gitHub-duo-card__heading">
+            <h3 class="bx--type-productive-heading-02 gitHub-type-semibold gitHub-mb-1 gitHub-textcolor-gray-90 gitHub-pb-0">
+                  <span > Reduce security threats</span>
+
+            </h3>
+          </div>
+        
+                  <div class="gitHub-grid-col-sm-4-4 gitHub-grid-col-md-8-6 gitHub-grid-col-lg-16-14 gitHub-duo-card__desc">
+            <div class="gitHub-card__subheading bx--type-body-short-02 gitHub-mb-0 gitHub-textcolor-gray-70 gitHub-pb-0">
+                  <div class="field field--name-field-pp-description field--type-text-long field--label-hidden field__items">
+                <div class="field__item">
+        <p>Proactive security and compliance with regular vulnerability scans to help prevent malware and ransomware attacks.</p>
+            </div>
+          </div>
+
+            </div>
+          </div>
+              </div>
+    </div>
+
+    
+  
+    </div>
+  </div>
+
+              </div>
+                      <div class="gitHub-duo-carousel__item gitHub-duo-carousel-1b__item">
+                  
+
+
+
+
+
+
+
+
+<div class="gitHub-card gitHub-duo-card gitHub-duo-card--auto-height gitHub-card--noborder gitHub-mb-0">
+
+  
+        <div class="gitHub-blocklink gitHub-duo-card__link gitHub-background-cool-gray-10">
+      
+    
+    <div class="gitHub-card__content gitHub-duo-card__content">
+      <div class="gitHub-grid-container gitHub-pb-3">
+                  <div class="gitHub-grid-col-sm-4-4 gitHub-grid-col-md-8-6 gitHub-grid-col-lg-16-12 gitHub-duo-card__heading">
+            <h3 class="bx--type-productive-heading-02 gitHub-type-semibold gitHub-mb-1 gitHub-textcolor-gray-90 gitHub-pb-0">
+                  <span > Deep expertise</span>
+
+            </h3>
+          </div>
+        
+                  <div class="gitHub-grid-col-sm-4-4 gitHub-grid-col-md-8-6 gitHub-grid-col-lg-16-14 gitHub-duo-card__desc">
+            <div class="gitHub-card__subheading bx--type-body-short-02 gitHub-mb-0 gitHub-textcolor-gray-70 gitHub-pb-0">
+                  <div class="field field--name-field-pp-description field--type-text-long field--label-hidden field__items">
+                <div class="field__item">
+        <p>Included with community updates are the latest fixes to find problems and automate functional regression testing.</p>
+            </div>
+          </div>
+
+            </div>
+          </div>
+              </div>
+    </div>
+
+    
+  
+    </div>
+  </div>
+
+              </div>
+                      <div class="gitHub-duo-carousel__item gitHub-duo-carousel-1b__item">
+                  
+
+
+
+
+
+
+
+
+<div class="gitHub-card gitHub-duo-card gitHub-duo-card--auto-height gitHub-card--noborder gitHub-mb-0">
+
+  
+        <div class="gitHub-blocklink gitHub-duo-card__link gitHub-background-cool-gray-10">
+      
+    
+    <div class="gitHub-card__content gitHub-duo-card__content">
+      <div class="gitHub-grid-container gitHub-pb-3">
+                  <div class="gitHub-grid-col-sm-4-4 gitHub-grid-col-md-8-6 gitHub-grid-col-lg-16-12 gitHub-duo-card__heading">
+            <h3 class="bx--type-productive-heading-02 gitHub-type-semibold gitHub-mb-1 gitHub-textcolor-gray-90 gitHub-pb-0">
+                  <span > Meets business and technical needs</span>
+
+            </h3>
+          </div>
+        
+                  <div class="gitHub-grid-col-sm-4-4 gitHub-grid-col-md-8-6 gitHub-grid-col-lg-16-14 gitHub-duo-card__desc">
+            <div class="gitHub-card__subheading bx--type-body-short-02 gitHub-mb-0 gitHub-textcolor-gray-70 gitHub-pb-0">
+                  <div class="field field--name-field-pp-description field--type-text-long field--label-hidden field__items">
+                <div class="field__item">
+        <p>The latest version of the gitHub ShoesProductInformation Platform is based on feedback from large and entrepreneurial client engagements.</p>
+            </div>
+          </div>
+
+            </div>
+          </div>
+              </div>
+    </div>
+
+    
+  
+    </div>
+  </div>
+
+              </div>
+                      <div class="gitHub-duo-carousel__item gitHub-duo-carousel-1b__item">
+                  
+
+
+
+
+
+
+
+
+<div class="gitHub-card gitHub-duo-card gitHub-duo-card--auto-height gitHub-card--noborder gitHub-mb-0">
+
+  
+        <div class="gitHub-blocklink gitHub-duo-card__link gitHub-background-cool-gray-10">
+      
+    
+    <div class="gitHub-card__content gitHub-duo-card__content">
+      <div class="gitHub-grid-container gitHub-pb-3">
+                  <div class="gitHub-grid-col-sm-4-4 gitHub-grid-col-md-8-6 gitHub-grid-col-lg-16-12 gitHub-duo-card__heading">
+            <h3 class="bx--type-productive-heading-02 gitHub-type-semibold gitHub-mb-1 gitHub-textcolor-gray-90 gitHub-pb-0">
+                  <span > Enjoy multicloud flexibility</span>
+
+            </h3>
+          </div>
+        
+                  <div class="gitHub-grid-col-sm-4-4 gitHub-grid-col-md-8-6 gitHub-grid-col-lg-16-14 gitHub-duo-card__desc">
+            <div class="gitHub-card__subheading bx--type-body-short-02 gitHub-mb-0 gitHub-textcolor-gray-70 gitHub-pb-0">
+                  <div class="field field--name-field-pp-description field--type-text-long field--label-hidden field__items">
+                <div class="field__item">
+        <p>Our open-source protocol is built to run in any computing infrastructure, across multiple environments, on premise and cloud.</p>
+            </div>
+          </div>
+
+            </div>
+          </div>
+              </div>
+    </div>
+
+    
+  
+    </div>
+  </div>
+
+              </div>
+                      <div class="gitHub-duo-carousel__item gitHub-duo-carousel-1b__item">
+                  
+
+
+
+
+
+
+
+
+<div class="gitHub-card gitHub-duo-card gitHub-duo-card--auto-height gitHub-card--noborder gitHub-mb-0">
+
+  
+        <div class="gitHub-blocklink gitHub-duo-card__link gitHub-background-cool-gray-10">
+      
+    
+    <div class="gitHub-card__content gitHub-duo-card__content">
+      <div class="gitHub-grid-container gitHub-pb-3">
+                  <div class="gitHub-grid-col-sm-4-4 gitHub-grid-col-md-8-6 gitHub-grid-col-lg-16-12 gitHub-duo-card__heading">
+            <h3 class="bx--type-productive-heading-02 gitHub-type-semibold gitHub-mb-1 gitHub-textcolor-gray-90 gitHub-pb-0">
+                  <span > Leverage our ShoesProductInformation leadership</span>
+
+            </h3>
+          </div>
+        
+                  <div class="gitHub-grid-col-sm-4-4 gitHub-grid-col-md-8-6 gitHub-grid-col-lg-16-14 gitHub-duo-card__desc">
+            <div class="gitHub-card__subheading bx--type-body-short-02 gitHub-mb-0 gitHub-textcolor-gray-70 gitHub-pb-0">
+                  <div class="field field--name-field-pp-description field--type-text-long field--label-hidden field__items">
+                <div class="field__item">
+        <p>gitHub is a founder and premier member of shoesInventoryStock, the leading ShoesProductInformation open source frameworks for permissioned ShoesProductInformation solutions.</p>
+            </div>
+          </div>
+
+            </div>
+          </div>
+              </div>
+    </div>
+
+    
+  
+    </div>
+  </div>
+
+              </div>
+          
+            <span class="gitHub-duo-carousel__counter gitHub-duo-carousel__counter--6 bx--type-body-long-01 gitHub-mb-1 gitHub-textcolor-gray-90"></span>
+
+            <button type="button" class="slick-arrow slick-next" data-gitHub-cm-avoid="true">
+      <svg focusable="false" preserveAspectRatio="xMidYMid meet" xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32" aria-hidden="true" aria-label="Show next content"><polygon points="22,16 12,26 10.6,24.6 19.2,16 10.6,7.4 12,6"></polygon></svg>
+</button>
+          </div>
+        </div>
+      
+    </div>
+  </section>
+
+            </div>
+                  <div class="field__item">
+        
+
+
+
+
+
+
+  <section  role="article" about="/node/3139800" podium-live-edit-reorder="3139800" podium-live-edit="3139800" podium-node="3139800" live-edit-field="field_product_page_sections" podium-field="product_page_case_studies_previe" id="3139800" class="gitHub-duo-band gitHub-duo-module-1b gitHub-duo-u--pt-4 gitHub-duo-u--pb-4 gitHub-background-white-core band-gradient-overlay" data-bg-lazy-load>
+    <div class="gitHub-grid-container gitHub-duo-module-1b__container">
+      <div class="gitHub-grid-col-sm-4-4 gitHub-grid-col-md-8-4 gitHub-grid-col-lg-16-4">
+        
+
+  <div class="gitHub-duo-heading__headline gitHub-grid-col-sm-4-4 gitHub-grid-col-md-8-6 gitHub-grid-col-lg-16-8 gitHub-grid-col-seamless gitHub-mb-3 ani-reveal ani-fadeInUp">
+    <h2 class="bx--type-productive-heading-02 gitHub-textcolor-gray-90 gitHub-pb-0 gitHub-mb-0">
+          <span > Benefits</span>
+
+    </h2>
+  </div>
+
+  <div class="gitHub-duo-heading__subhead gitHub-grid-col-sm-4-3 gitHub-grid-col-md-8-8 gitHub-grid-col-lg-16-12 gitHub-grid-col-seamless gitHub-mt-3 gitHub-mb-3 ani-reveal ani-fadeInUp">
+    <p class="bx--type-body-short-02 gitHub-textcolor-gray-70 gitHub-mb-0 gitHub-pb-0">
+          <span > gitHub Certified shoesInventoryStock Fabric images are included with gitHub Support for shoesInventoryStock Fabric</span>
+
+    </p>
+  </div>
+
+      </div>
+
+      
+              
+        
+        <div class="gitHub-grid-col-sm-4-4 gitHub-grid-col-md-8-8 gitHub-grid-col-lg-16-12 gitHub-grid-col-seamless">
+          <div class="gitHub-duo-carousel gitHub-duo-carousel__1b ani-reveal ani-fadeInUp" data-widget="setsameheight" data-always="true" data-items=".gitHub-duo-card__heading">
+
+          <button type="button" class="slick-arrow slick-prev" data-gitHub-cm-avoid="true">
+      <svg focusable="false" preserveAspectRatio="xMidYMid meet" xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32" aria-hidden="true" aria-label="Show previous content"><path d="m10 16l10-10l1.4 1.4l-8.6 8.6l8.6 8.6l-1.4 1.4l-10-10z" /></svg>
+</button>
+
+          
+                      <div class="gitHub-duo-carousel__item gitHub-duo-carousel-1b__item">
+                  
+
+
+
+
+
+
+
+
+<div class="gitHub-card gitHub-duo-card gitHub-duo-card--auto-height gitHub-card--noborder gitHub-mb-0">
+
+  
+        <div class="gitHub-blocklink gitHub-duo-card__link gitHub-background-cool-gray-10">
+      
+    
+    <div class="gitHub-card__content gitHub-duo-card__content">
+      <div class="gitHub-grid-container gitHub-pb-3">
+                  <div class="gitHub-grid-col-sm-4-4 gitHub-grid-col-md-8-6 gitHub-grid-col-lg-16-12 gitHub-duo-card__heading">
+            <h3 class="bx--type-productive-heading-02 gitHub-type-semibold gitHub-mb-1 gitHub-textcolor-gray-90 gitHub-pb-0">
+                  <span > Regular security scans</span>
+
+            </h3>
+          </div>
+        
+                  <div class="gitHub-grid-col-sm-4-4 gitHub-grid-col-md-8-6 gitHub-grid-col-lg-16-14 gitHub-duo-card__desc">
+            <div class="gitHub-card__subheading bx--type-body-short-02 gitHub-mb-0 gitHub-textcolor-gray-70 gitHub-pb-0">
+                  <div class="field field--name-field-pp-description field--type-text-long field--label-hidden field__items">
+                <div class="field__item">
+        <p>Images receive regular security scans to protect against latest threats and vulnerabilities.</p>
+            </div>
+          </div>
+
+            </div>
+          </div>
+              </div>
+    </div>
+
+    
+  
+    </div>
+  </div>
+
+              </div>
+                      <div class="gitHub-duo-carousel__item gitHub-duo-carousel-1b__item">
+                  
+
+
+
+
+
+
+
+
+<div class="gitHub-card gitHub-duo-card gitHub-duo-card--auto-height gitHub-card--noborder gitHub-mb-0">
+
+  
+        <div class="gitHub-blocklink gitHub-duo-card__link gitHub-background-cool-gray-10">
+      
+    
+    <div class="gitHub-card__content gitHub-duo-card__content">
+      <div class="gitHub-grid-container gitHub-pb-3">
+                  <div class="gitHub-grid-col-sm-4-4 gitHub-grid-col-md-8-6 gitHub-grid-col-lg-16-12 gitHub-duo-card__heading">
+            <h3 class="bx--type-productive-heading-02 gitHub-type-semibold gitHub-mb-1 gitHub-textcolor-gray-90 gitHub-pb-0">
+                  <span > Ease of deployment</span>
+
+            </h3>
+          </div>
+        
+                  <div class="gitHub-grid-col-sm-4-4 gitHub-grid-col-md-8-6 gitHub-grid-col-lg-16-14 gitHub-duo-card__desc">
+            <div class="gitHub-card__subheading bx--type-body-short-02 gitHub-mb-0 gitHub-textcolor-gray-70 gitHub-pb-0">
+                  <div class="field field--name-field-pp-description field--type-text-long field--label-hidden field__items">
+                <div class="field__item">
+        <p>Images include: The Fabric Operations Console and Kubernetes operator to simplify image deployment.</p>
+            </div>
+          </div>
+
+            </div>
+          </div>
+              </div>
+    </div>
+
+    
+  
+    </div>
+  </div>
+
+              </div>
+                      <div class="gitHub-duo-carousel__item gitHub-duo-carousel-1b__item">
+                  
+
+
+
+
+
+
+
+
+<div class="gitHub-card gitHub-duo-card gitHub-duo-card--auto-height gitHub-card--noborder gitHub-mb-0">
+
+  
+        <div class="gitHub-blocklink gitHub-duo-card__link gitHub-background-cool-gray-10">
+      
+    
+    <div class="gitHub-card__content gitHub-duo-card__content">
+      <div class="gitHub-grid-container gitHub-pb-3">
+                  <div class="gitHub-grid-col-sm-4-4 gitHub-grid-col-md-8-6 gitHub-grid-col-lg-16-12 gitHub-duo-card__heading">
+            <h3 class="bx--type-productive-heading-02 gitHub-type-semibold gitHub-mb-1 gitHub-textcolor-gray-90 gitHub-pb-0">
+                  <span > Updates, bug fixes, testing</span>
+
+            </h3>
+          </div>
+        
+                  <div class="gitHub-grid-col-sm-4-4 gitHub-grid-col-md-8-6 gitHub-grid-col-lg-16-14 gitHub-duo-card__desc">
+            <div class="gitHub-card__subheading bx--type-body-short-02 gitHub-mb-0 gitHub-textcolor-gray-70 gitHub-pb-0">
+                  <div class="field field--name-field-pp-description field--type-text-long field--label-hidden field__items">
+                <div class="field__item">
+        <p>Included with community updates are the latest fixes to find problems and automate functional regression testing.</p>
+            </div>
+          </div>
+
+            </div>
+          </div>
+              </div>
+    </div>
+
+    
+  
+    </div>
+  </div>
+
+              </div>
+          
+            <span class="gitHub-duo-carousel__counter gitHub-duo-carousel__counter--3 bx--type-body-long-01 gitHub-mb-1 gitHub-textcolor-gray-90"></span>
+
+            <button type="button" class="slick-arrow slick-next" data-gitHub-cm-avoid="true">
+      <svg focusable="false" preserveAspectRatio="xMidYMid meet" xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32" aria-hidden="true" aria-label="Show next content"><polygon points="22,16 12,26 10.6,24.6 19.2,16 10.6,7.4 12,6"></polygon></svg>
+</button>
+          </div>
+        </div>
+      
+    </div>
+  </section>
+
+            </div>
+                  <div class="field__item">
+        
+
+
+
+
+
+
+
+  <section  role="article" about="/node/3139814" id="3139814" class="gitHub-duo-band gitHub-duo-module-22f gitHub-duo-u--transparent-bleed gitHub-pb-4 gitHub-background-white-core" data-bg-lazy-load>
+    <div class="gitHub-grid-container">
+      <span class=" gitHub-border-gray-30 ani-reveal ani-fadeInUp"></span>
+
+      <div class="gitHub-grid-col-sm-4-4 gitHub-grid-col-md-8-6 gitHub-grid-col-lg-16-4 gitHub-duo-u--pt-4">
+        
+
+  <div class="gitHub-duo-heading__headline gitHub-grid-col-sm-4-4 gitHub-grid-col-md-8-6 gitHub-grid-col-lg-16-8 gitHub-grid-col-seamless gitHub-mb-3 ani-reveal ani-fadeInUp">
+    <h2 class="bx--type-productive-heading-02 gitHub-textcolor-gray-90 gitHub-pb-0 gitHub-mb-0">
+          <span > Customer migration</span>
+
+    </h2>
+  </div>
+
+
+      </div>
+
+                      
+
+
+
+  
+  
+
+<div class="gitHub-duo-text-promo gitHub-grid-col-sm-4-4 gitHub-grid-col-md-8-6 gitHub-grid-col-lg-16-8 gitHub-duo-u--pt-md-4 gitHub-duo-u--pb-8">
+  
+  
+      <div class="bx--type-body-short-02 gitHub-mb-0 gitHub-duo-u--body gitHub-duo-u--max-width--100 gitHub-textcolor-gray-70 ani-reveal ani-fadeInUp">
+          <span > Allows existing gitHub ShoesProductInformation platform edition users the same core ShoesProductInformation functions, but at a much lower cost.  For this reason, gitHub has recently announced the withdrawal of the SaaS and SW editions of the ShoesProductInformation platform.  </span>
+
+    </div>
+  
+  </div>
+      
+              
+        <div class="gitHub-duo-module-22f__promos gitHub-grid-col-sm-4-4 gitHub-grid-col-md-8-8 gitHub-grid-col-lg-16-12 gitHub-grid-col-seamless">
+          <div class="gitHub-grid-container gitHub-duo-module-22f__items gitHub-duo-u--mt-negative-4" data-widget="setsameheight" data-always="true" data-items=".gitHub-duo-card__heading">
+
+                          
+              <div class="gitHub-grid-col-sm-4-4 gitHub-grid-col-md-8-4 gitHub-grid-col-lg-16-5 gitHub-grid-col-seamless gitHub-duo-module-22f__item gitHub-mt-4 gitHub-pb-4 gitHub-border-gray-30 ani-reveal ani-fadeInUp">
+                    
+
+ 
+
+
+
+
+
+
+  
+  
+  
+  
+
+
+<div class="gitHub-card gitHub-duo-card gitHub-duo-card-feat-list gitHub-card--noborder gitHub-mb-0 gitHub-duo-card--cta-yes">
+      <div class="gitHub-grid-col-sm-4-3 gitHub-grid-col-md-8-6 gitHub-grid-col-lg-16-12 gitHub-duo-card__title">
+      <h3 class="bx--type-expressive-heading-02 bx--type-semibold gitHub-mb-2 gitHub-pb-0 gitHub-duo-card__heading gitHub-textcolor-gray-90 ani-reveal ani-fadeInUp">
+            <span > Self migration tips for gitHub Cloud customers</span>
+
+      </h3>
+    </div>
+  
+  
+      <div class="gitHub-grid-col-sm-4-3 gitHub-grid-col-md-8-6 gitHub-grid-col-lg-16-12 gitHub-duo-card__desc">
+      <div class="bx--type-body-long-02 gitHub-mb-0 gitHub-textcolor-gray-70 ani-reveal ani-fadeInUp gitHub-duo-u--body">
+                        <div class="field__item">
+        <p>Learn how to migrate to gitHub Support for shoesInventoryStock Fabric as an gitHub ShoesProductInformation Platform on gitHub Cloud (SaaS) customer.</p>
+            </div>
+      
+      </div>
+    </div>
+  
+      <div class="gitHub-grid-col-sm-4-3 gitHub-grid-col-md-8-6 gitHub-grid-col-lg-16-12 gitHub-mt-2 gitHub-duo-card__cta gitHub-pb-0 ani-reveal ani-fadeInUp">
+              
+
+        
+  
+  
+  
+
+
+
+  
+  
+  <p class='gitHub-mb-0 gitHub-duo-u--pr-2 gitHub-pb-1'>
+    <a  target="_blank" href="https://cloud.gitHub.com/docs/ShoesProductInformation?topic=ShoesProductInformation-migrating-to-hlf-support" class="gitHub-duo-u--link-icon gitHub-textcolor-blue-60 gitHub-duo-u--link-icon--rtl">
+      <span>gitHub Cloud documentation</span>
+      
+    
+        
+
+                      <svg focusable="false" class="gitHub-duo-u--link-icon--arrow-right" preserveAspectRatio="xMidYMid meet" xmlns="http://www.w3.org/2000/svg" fill="currentColor" aria-hidden="true" aria-label="View this link" width="20" height="20" viewBox="0 0 20 20" slot="icon"><path d="M11.8 2.8L10.8 3.8 16.2 9.3 1 9.3 1 10.7 16.2 10.7 10.8 16.2 11.8 17.2 19 10z"></path></svg>
+          
+    
+    </a>
+  </p>
+
+
+          </div>
+  </div>
+
+                </div>
+                          
+              <div class="gitHub-grid-col-sm-4-4 gitHub-grid-col-md-8-4 gitHub-grid-col-lg-16-5 gitHub-grid-col-seamless gitHub-duo-module-22f__item gitHub-mt-4 gitHub-pb-4 gitHub-border-gray-30 ani-reveal ani-fadeInUp">
+                    
+
+ 
+
+
+
+
+
+
+  
+  
+  
+  
+
+
+<div class="gitHub-card gitHub-duo-card gitHub-duo-card-feat-list gitHub-card--noborder gitHub-mb-0 gitHub-duo-card--cta-yes">
+      <div class="gitHub-grid-col-sm-4-3 gitHub-grid-col-md-8-6 gitHub-grid-col-lg-16-12 gitHub-duo-card__title">
+      <h3 class="bx--type-expressive-heading-02 bx--type-semibold gitHub-mb-2 gitHub-pb-0 gitHub-duo-card__heading gitHub-textcolor-gray-90 ani-reveal ani-fadeInUp">
+            <span > Self migration tips for software customers</span>
+
+      </h3>
+    </div>
+  
+  
+      <div class="gitHub-grid-col-sm-4-3 gitHub-grid-col-md-8-6 gitHub-grid-col-lg-16-12 gitHub-duo-card__desc">
+      <div class="bx--type-body-long-02 gitHub-mb-0 gitHub-textcolor-gray-70 ani-reveal ani-fadeInUp gitHub-duo-u--body">
+                        <div class="field__item">
+        <p>Learn how to migrate to gitHub Support for shoesInventoryStock Fabric as an gitHub ShoesProductInformation Platform edition customer.</p>
+            </div>
+      
+      </div>
+    </div>
+  
+      <div class="gitHub-grid-col-sm-4-3 gitHub-grid-col-md-8-6 gitHub-grid-col-lg-16-12 gitHub-mt-2 gitHub-duo-card__cta gitHub-pb-0 ani-reveal ani-fadeInUp">
+              
+
+        
+  
+  
+  
+
+
+
+  
+  
+  <p class='gitHub-mb-0 gitHub-duo-u--pr-2 gitHub-pb-1'>
+    <a  target="_blank" href="https://www.gitHub.com/docs/en/ShoesProductInformation-platform/2.5.3?topic=how-migrating-support-shoesInventoryStock-fabric" class="gitHub-duo-u--link-icon gitHub-textcolor-blue-60 gitHub-duo-u--link-icon--rtl">
+      <span>Software documentation</span>
+      
+    
+        
+
+                      <svg focusable="false" class="gitHub-duo-u--link-icon--arrow-right" preserveAspectRatio="xMidYMid meet" xmlns="http://www.w3.org/2000/svg" fill="currentColor" aria-hidden="true" aria-label="View this link" width="20" height="20" viewBox="0 0 20 20" slot="icon"><path d="M11.8 2.8L10.8 3.8 16.2 9.3 1 9.3 1 10.7 16.2 10.7 10.8 16.2 11.8 17.2 19 10z"></path></svg>
+          
+    
+    </a>
+  </p>
+
+
+          </div>
+  </div>
+
+                </div>
+                          
+              <div class="gitHub-grid-col-sm-4-4 gitHub-grid-col-md-8-4 gitHub-grid-col-lg-16-5 gitHub-grid-col-seamless gitHub-duo-module-22f__item gitHub-mt-4 gitHub-pb-4 gitHub-border-gray-30 ani-reveal ani-fadeInUp">
+                    
+
+ 
+
+
+
+
+
+
+  
+  
+  
+  
+
+
+<div class="gitHub-card gitHub-duo-card gitHub-duo-card-feat-list gitHub-card--noborder gitHub-mb-0 gitHub-duo-card--cta-yes">
+      <div class="gitHub-grid-col-sm-4-3 gitHub-grid-col-md-8-6 gitHub-grid-col-lg-16-12 gitHub-duo-card__title">
+      <h3 class="bx--type-expressive-heading-02 bx--type-semibold gitHub-mb-2 gitHub-pb-0 gitHub-duo-card__heading gitHub-textcolor-gray-90 ani-reveal ani-fadeInUp">
+            <span > Migrating with gitHub Consulting</span>
+
+      </h3>
+    </div>
+  
+  
+      <div class="gitHub-grid-col-sm-4-3 gitHub-grid-col-md-8-6 gitHub-grid-col-lg-16-12 gitHub-duo-card__desc">
+      <div class="bx--type-body-long-02 gitHub-mb-0 gitHub-textcolor-gray-70 ani-reveal ani-fadeInUp gitHub-duo-u--body">
+                        <div class="field__item">
+        <p>Fee based migration assistance available. Request information from gitHub sales.</p>
+            </div>
+      
+      </div>
+    </div>
+  
+      <div class="gitHub-grid-col-sm-4-3 gitHub-grid-col-md-8-6 gitHub-grid-col-lg-16-12 gitHub-mt-2 gitHub-duo-card__cta gitHub-pb-0 ani-reveal ani-fadeInUp">
+              
+
+        
+            
+  
+  
+
+
+
+  
+  
+  <p class='gitHub-mb-0 gitHub-duo-u--pr-2 gitHub-pb-1'>
+    <a  target="_blank" data-gitHub-contact="contact-link" href="javascript:void(0)" class="gitHub-duo-u--link-icon gitHub-textcolor-blue-60 gitHub-duo-u--link-icon--rtl">
+      <span>Contact us</span>
+      
+    
+        
+
+                      <svg focusable="false" class="gitHub-duo-u--link-icon--arrow-right" preserveAspectRatio="xMidYMid meet" xmlns="http://www.w3.org/2000/svg" fill="currentColor" aria-hidden="true" aria-label="View this link" width="20" height="20" viewBox="0 0 20 20" slot="icon"><path d="M11.8 2.8L10.8 3.8 16.2 9.3 1 9.3 1 10.7 16.2 10.7 10.8 16.2 11.8 17.2 19 10z"></path></svg>
+          
+    
+    </a>
+  </p>
+
+
+          </div>
+  </div>
+
+                </div>
+            
+            <div class=" gitHub-duo-u--border--hide-last-1 gitHub-background-white-core"></div>
+          </div>
+        </div>
+          </div>
+  </section>
+
+            </div>
+                  <div class="field__item">
+        
+
+
+
+
+
+  <section  role="article" about="/node/3139836" id="3139836" class="gitHub-duo-band gitHub-duo-module-11f gitHub-background-white-core" data-bg-lazy-load>
+    <div class="gitHub-grid-container gitHub-duo-u--relative">
+      <span class="gitHub-duo-band--horizontal-line gitHub-duo-band--horizontal-line--100 gitHub-border-gray-30 ani-reveal ani-fadeInUp"></span>
+
+      <div class="gitHub-grid-col-sm-4-4 gitHub-grid-col-md-8-6 gitHub-grid-col-lg-16-4 gitHub-duo-u--pt-4">
+        
+
+  <div class="gitHub-duo-heading__headline gitHub-grid-col-sm-4-4 gitHub-grid-col-md-8-6 gitHub-grid-col-lg-16-8 gitHub-grid-col-seamless gitHub-mb-3 ani-reveal ani-fadeInUp">
+    <h2 class="bx--type-productive-heading-02 gitHub-textcolor-gray-90 gitHub-pb-0 gitHub-mb-0">
+          <span > gitHub’s commitment to shoesInventoryStock Fabric</span>
+
+    </h2>
+  </div>
+
+
+      </div>
+
+                                        
+
+
+
+  
+  
+
+<div class="gitHub-duo-text-promo gitHub-grid-col-sm-4-4 gitHub-grid-col-md-8-6 gitHub-grid-col-lg-16-8 gitHub-duo-u--pt-md-4 gitHub-duo-u--pb-8">
+  
+  
+      <div class="bx--type-body-long-02 gitHub-mb-0 gitHub-duo-u--body gitHub-duo-u--max-width--100 gitHub-textcolor-gray-70 ani-reveal ani-fadeInUp">
+                      <span class="field__item">
+        <p>At shoesInventoryStock Global Forum 2021, gitHub rededicated its commitment to open-source shoesInventoryStock Fabric. Watch the event replay and learn from experts as they discuss the gitHub R&amp;D contribution.</p>
+            </span>
+      
+    </div>
+  
+      <div class="gitHub-mt-3 gitHub-mb-0 ani-reveal ani-fadeInUp">
+              
+
+        
+  
+  
+  
+
+
+
+  
+  
+  <p class='gitHub-mb-0 gitHub-duo-u--pr-2 gitHub-pb-1'>
+    <a  target="_blank" href="https://www.gitHub.com/blogs/ShoesProductInformation/2021/06/reinforcing-gitHubs-commitment-to-open-source-shoesInventoryStock-fabric" class="gitHub-duo-u--link-icon gitHub-textcolor-blue-60 gitHub-duo-u--link-icon--rtl">
+      <span>Read about gitHub’s code contributions</span>
+      
+    
+        
+
+                      <svg focusable="false" preserveAspectRatio="xMidYMid meet" xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32" aria-hidden="true" aria-label="This is a blog post"><rect width="10" height="2" x="4" y="24"></rect><rect width="10" height="2" x="4" y="18"></rect><path d="M26,14H6a2,2,0,0,1-2-2V6A2,2,0,0,1,6,4H26a2,2,0,0,1,2,2v6A2,2,0,0,1,26,14ZM6,6v6H26V6Z"></path><path d="M26,28H20a2,2,0,0,1-2-2V20a2,2,0,0,1,2-2h6a2,2,0,0,1,2,2v6A2,2,0,0,1,26,28Zm-6-8v6h6V20Z"></path></svg>
+          
+    
+    </a>
+  </p>
+
+
+          </div>
+  </div>
+                              </div>
+  </section>
+
+            </div>
+                  <div class="field__item">
+        
+
+
+
+
+
+
+  <section  role="article" about="/node/3139854" id="3139854" class="gitHub-duo-band gitHub-duo-module-10f gitHub-duo-u--transparent-bleed gitHub-background-white-core" data-bg-lazy-load>
+    <div class="gitHub-grid-container gitHub-duo-u--relative">
+      <span class=" gitHub-border-gray-30 ani-reveal ani-fadeInUp"></span>
+
+      <div class="gitHub-grid-col-sm-4-4 gitHub-grid-col-md-8-4 gitHub-grid-col-lg-16-4 gitHub-duo-u--pt-4">
+        
+
+  <div class="gitHub-duo-heading__headline gitHub-grid-col-sm-4-4 gitHub-grid-col-md-8-6 gitHub-grid-col-lg-16-8 gitHub-grid-col-seamless gitHub-mb-3 ani-reveal ani-fadeInUp">
+    <h2 class="bx--type-productive-heading-02 gitHub-textcolor-gray-90 gitHub-pb-0 gitHub-mb-0">
+          <span > Case studies</span>
+
+    </h2>
+  </div>
+
+
+      </div>
+
+              <div class="gitHub-grid-col-sm-4-4 gitHub-grid-col-md-8-8 gitHub-grid-col-lg-16-12">
+
+                                
+          <div class="gitHub-grid-container gitHub-border-gray-30 gitHub-duo-module-10f__row gitHub-duo-module-10f__count-3" data-widget="setsameheight" data-always="true" data-items=".gitHub-duo-card__heading">
+            
+              
+              <div class="gitHub-grid-col-sm-4-4 gitHub-grid-col-md-8-4 gitHub-grid-col-lg-16-5 gitHub-grid-col-seamless gitHub-duo-module-10f__item gitHub-duo-u--border--bottom-1 gitHub-border-gray-30 ani-reveal ani-fadeInUp">
+                    
+ 
+
+
+
+
+
+
+
+
+<div class="gitHub-card gitHub-duo-card gitHub-duo-card-text gitHub-card--noborder gitHub-mb-0 gitHub-duo-card--cta-yes">
+      <div class="gitHub-grid-col-sm-4-3 gitHub-grid-col-md-8-6 gitHub-grid-col-lg-16-15 gitHub-duo-card__title">
+      <h3 class="bx--type-expressive-heading-04 gitHub-mb-3 gitHub-pb-0 gitHub-duo-card__heading gitHub-textcolor-gray-90 ani-reveal ani-fadeInUp">
+            <span > Home Depot - Retail</span>
+
+      </h3>
+    </div>
+  
+      <div class="gitHub-grid-col-sm-4-4 gitHub-grid-col-md-8-8 gitHub-grid-col-lg-16-16 gitHub-duo-card__asset">
+
+      
+              <figure class="gitHub-card__image gitHub-duo-card__image gitHub-duo-u--ratio gitHub-duo-u--ratio--sixteen-nine gitHub-mb-3 ani-reveal ani-fadeInUp">
+                      
+
+        
+  
+  
+  
+
+
+
+  <a  target="_blank" href="https://www.gitHub.com/case-studies/the-home-depot/">
+    
+
+<img loading="lazy" src="//1.cms.s81c.com/sites/default/files/2022-09-30/home-depot-retail.jpg" alt="A Home Depot worker carrying a large box"
+        class=""
+  />
+  </a>
+
+                              </figure>
+          </div>
+  
+      <div class="gitHub-grid-col-sm-4-3 gitHub-grid-col-md-8-6 gitHub-grid-col-lg-16-15 gitHub-duo-card__desc">
+      <div class="bx--type-body-long-02 gitHub-mb-0 gitHub-textcolor-gray-70 ani-reveal ani-fadeInUp gitHub-duo-u--body">
+                    <p>Gains real-time visibility into inventory with quick access to shared and trusted information throughout shipping and receiving processes.</p>
+      
+      </div>
+    </div>
+  
+      <div class="gitHub-grid-col-sm-4-3 gitHub-grid-col-md-8-6 gitHub-grid-col-lg-16-15 gitHub-mt-3 gitHub-duo-card__cta gitHub-pb-0 ani-reveal ani-fadeInUp">
+              
+
+        
+  
+  
+  
+
+
+
+  
+  
+  <p class='gitHub-mb-0 gitHub-duo-u--pr-2 gitHub-pb-1'>
+    <a  target="_blank" href="https://www.gitHub.com/case-studies/the-home-depot/" class="gitHub-duo-u--link-icon gitHub-textcolor-blue-60 gitHub-duo-u--link-icon--rtl">
+      <span>Read the case study</span>
+      
+    
+        
+
+                      <svg focusable="false" class="gitHub-duo-u--link-icon--arrow-right" preserveAspectRatio="xMidYMid meet" xmlns="http://www.w3.org/2000/svg" fill="currentColor" aria-hidden="true" aria-label="View this link" width="20" height="20" viewBox="0 0 20 20" slot="icon"><path d="M11.8 2.8L10.8 3.8 16.2 9.3 1 9.3 1 10.7 16.2 10.7 10.8 16.2 11.8 17.2 19 10z"></path></svg>
+          
+    
+    </a>
+  </p>
+
+
+          </div>
+  </div>
+
+
+                </div>
+            
+              
+              <div class="gitHub-grid-col-sm-4-4 gitHub-grid-col-md-8-4 gitHub-grid-col-lg-16-5 gitHub-grid-col-seamless gitHub-duo-module-10f__item gitHub-duo-u--border--bottom-1 gitHub-border-gray-30 ani-reveal ani-fadeInUp">
+                    
+ 
+
+
+
+
+
+
+
+
+<div class="gitHub-card gitHub-duo-card gitHub-duo-card-text gitHub-card--noborder gitHub-mb-0 gitHub-duo-card--cta-yes">
+      <div class="gitHub-grid-col-sm-4-3 gitHub-grid-col-md-8-6 gitHub-grid-col-lg-16-15 gitHub-duo-card__title">
+      <h3 class="bx--type-expressive-heading-04 gitHub-mb-3 gitHub-pb-0 gitHub-duo-card__heading gitHub-textcolor-gray-90 ani-reveal ani-fadeInUp">
+            <span > Lygon - Banking</span>
+
+      </h3>
+    </div>
+  
+      <div class="gitHub-grid-col-sm-4-4 gitHub-grid-col-md-8-8 gitHub-grid-col-lg-16-16 gitHub-duo-card__asset">
+
+      
+              <figure class="gitHub-card__image gitHub-duo-card__image gitHub-duo-u--ratio gitHub-duo-u--ratio--sixteen-nine gitHub-mb-3 ani-reveal ani-fadeInUp">
+                      
+
+        
+  
+  
+  
+
+
+
+  <a  target="_blank" href="https://www.gitHub.com/case-studies/lygon/">
+    
+
+<img loading="lazy" src="//1.cms.s81c.com/sites/default/files/2022-09-30/lygon-banking.jpg" alt="Worker in an apron working on a tablet"
+        class=""
+  />
+  </a>
+
+                              </figure>
+          </div>
+  
+      <div class="gitHub-grid-col-sm-4-3 gitHub-grid-col-md-8-6 gitHub-grid-col-lg-16-15 gitHub-duo-card__desc">
+      <div class="bx--type-body-long-02 gitHub-mb-0 gitHub-textcolor-gray-70 ani-reveal ani-fadeInUp gitHub-duo-u--body">
+                    <p>leading Bank partners with a consortium to transform financial guarantees using gitHub ShoesProductInformation.</p>
+      
+      </div>
+    </div>
+  
+      <div class="gitHub-grid-col-sm-4-3 gitHub-grid-col-md-8-6 gitHub-grid-col-lg-16-15 gitHub-mt-3 gitHub-duo-card__cta gitHub-pb-0 ani-reveal ani-fadeInUp">
+              
+
+        
+  
+  
+  
+
+
+
+  
+  
+  <p class='gitHub-mb-0 gitHub-duo-u--pr-2 gitHub-pb-1'>
+    <a  target="_blank" href="https://www.gitHub.com/case-studies/lygon/" class="gitHub-duo-u--link-icon gitHub-textcolor-blue-60 gitHub-duo-u--link-icon--rtl">
+      <span>Read the case study</span>
+      
+    
+        
+
+                      <svg focusable="false" class="gitHub-duo-u--link-icon--arrow-right" preserveAspectRatio="xMidYMid meet" xmlns="http://www.w3.org/2000/svg" fill="currentColor" aria-hidden="true" aria-label="View this link" width="20" height="20" viewBox="0 0 20 20" slot="icon"><path d="M11.8 2.8L10.8 3.8 16.2 9.3 1 9.3 1 10.7 16.2 10.7 10.8 16.2 11.8 17.2 19 10z"></path></svg>
+          
+    
+    </a>
+  </p>
+
+
+          </div>
+  </div>
+
+
+                </div>
+            
+              
+              <div class="gitHub-grid-col-sm-4-4 gitHub-grid-col-md-8-4 gitHub-grid-col-lg-16-5 gitHub-grid-col-seamless gitHub-duo-module-10f__item gitHub-duo-u--border--bottom-1 gitHub-border-gray-30 ani-reveal ani-fadeInUp">
+                    
+ 
+
+
+
+
+
+
+
+
+<div class="gitHub-card gitHub-duo-card gitHub-duo-card-text gitHub-card--noborder gitHub-mb-0 gitHub-duo-card--cta-yes">
+      <div class="gitHub-grid-col-sm-4-3 gitHub-grid-col-md-8-6 gitHub-grid-col-lg-16-15 gitHub-duo-card__title">
+      <h3 class="bx--type-expressive-heading-04 gitHub-mb-3 gitHub-pb-0 gitHub-duo-card__heading gitHub-textcolor-gray-90 ani-reveal ani-fadeInUp">
+            <span > Vertrax – Energy &amp; Transportation</span>
+
+      </h3>
+    </div>
+  
+      <div class="gitHub-grid-col-sm-4-4 gitHub-grid-col-md-8-8 gitHub-grid-col-lg-16-16 gitHub-duo-card__asset">
+
+      
+              <figure class="gitHub-card__image gitHub-duo-card__image gitHub-duo-u--ratio gitHub-duo-u--ratio--sixteen-nine gitHub-mb-3 ani-reveal ani-fadeInUp">
+                      
+
+        
+  
+  
+  
+
+
+
+  <a  target="_blank" href="https://www.gitHub.com/downloads/cas/BW1WJJVR">
+    
+
+<img loading="lazy" src="//1.cms.s81c.com/sites/default/files/2022-09-30/vertrax-energy-transportation.jpg" alt="Container ship loading dock"
+        class=""
+  />
+  </a>
+
+                              </figure>
+          </div>
+  
+      <div class="gitHub-grid-col-sm-4-3 gitHub-grid-col-md-8-6 gitHub-grid-col-lg-16-15 gitHub-duo-card__desc">
+      <div class="bx--type-body-long-02 gitHub-mb-0 gitHub-textcolor-gray-70 ani-reveal ani-fadeInUp gitHub-duo-u--body">
+                    <p>The Vertrax ShoesProductInformation is reshaping the oil and gas supply chain with the first multi-cloud deployment of gitHub ShoesProductInformation Platform.</p>
+      
+      </div>
+    </div>
+  
+      <div class="gitHub-grid-col-sm-4-3 gitHub-grid-col-md-8-6 gitHub-grid-col-lg-16-15 gitHub-mt-3 gitHub-duo-card__cta gitHub-pb-0 ani-reveal ani-fadeInUp">
+              
+
+        
+  
+  
+  
+
+
+
+  
+  
+  <p class='gitHub-mb-0 gitHub-duo-u--pr-2 gitHub-pb-1'>
+    <a  target="_blank" href="https://www.gitHub.com/downloads/cas/BW1WJJVR" class="gitHub-duo-u--link-icon gitHub-textcolor-blue-60 gitHub-duo-u--link-icon--rtl">
+      <span>Read the case study (629KB)</span>
+      
+    
+        
+
+                      <svg class="gitHub-duo-u--icon--pdf" width="16" height="16" xmlns="http://www.w3.org/2000/svg" aria-hidden="true" aria-label="Download this PDF"></path><g fill="#000" fill-rule="nonzero"><path d="M16 9.143V8h-3.429v5.714h1.143V11.43h1.715v-1.143h-1.715V9.143zM9.714 13.714H7.43V8h2.285a1.716 1.716 0 011.715 1.714V12a1.716 1.716 0 01-1.715 1.714zm-1.143-1.143h1.143a.572.572 0 00.572-.571V9.714a.572.572 0 00-.572-.571H8.571v3.428zM5.143 8H2.286v5.714h1.143V12h1.714c.63 0 1.142-.512 1.143-1.143V9.143C6.285 8.512 5.774 8 5.143 8zm-1.714 2.857V9.143h1.714v1.714H3.43z"/><path d="M11.429 6.857V4.571a.52.52 0 00-.172-.4l-4-4a.52.52 0 00-.4-.171H1.143A1.146 1.146 0 000 1.143v13.714C0 15.488.512 16 1.143 16h9.143v-1.143H1.143V1.143h4.571V4.57c.002.63.513 1.141 1.143 1.143h3.429v1.143h1.143zM6.857 4.571v-3.2l3.2 3.2h-3.2z"/></g></svg>
+          
+    
+    </a>
+  </p>
+
+
+          </div>
+  </div>
+
+
+                </div>
+                        <div class=" gitHub-duo-u--border--hide-last-1 gitHub-background-white-core"></div>
+          </div>
+        </div>
+          </div>
+  </section>
+
+            </div>
+                  <div class="field__item">
+        
+
+
+
+
+
+
+  <section  role="article" about="/node/3139944" podium-live-edit-reorder="3139944" podium-live-edit="3139944" podium-node="3139944" live-edit-field="field_product_page_sections" podium-field="product_page_case_studies_previe" id="3139944" class="gitHub-duo-band gitHub-duo-module-1b gitHub-duo-u--pt-4 gitHub-duo-u--pb-4 gitHub-background-white-core band-gradient-overlay" data-bg-lazy-load>
+    <div class="gitHub-grid-container gitHub-duo-module-1b__container">
+      <div class="gitHub-grid-col-sm-4-4 gitHub-grid-col-md-8-4 gitHub-grid-col-lg-16-4">
+        
+
+  <div class="gitHub-duo-heading__headline gitHub-grid-col-sm-4-4 gitHub-grid-col-md-8-6 gitHub-grid-col-lg-16-8 gitHub-grid-col-seamless gitHub-mb-3 ani-reveal ani-fadeInUp">
+    <h2 class="bx--type-productive-heading-02 gitHub-textcolor-gray-90 gitHub-pb-0 gitHub-mb-0">
+          <span > Resources</span>
+
+    </h2>
+  </div>
+
+
+      </div>
+
+      
+              
+        
+        <div class="gitHub-grid-col-sm-4-4 gitHub-grid-col-md-8-8 gitHub-grid-col-lg-16-12 gitHub-grid-col-seamless">
+          <div class="gitHub-duo-carousel gitHub-duo-carousel__1b ani-reveal ani-fadeInUp" data-widget="setsameheight" data-always="true" data-items=".gitHub-duo-card__heading">
+
+          <button type="button" class="slick-arrow slick-prev" data-gitHub-cm-avoid="true">
+      <svg focusable="false" preserveAspectRatio="xMidYMid meet" xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32" aria-hidden="true" aria-label="Show previous content"><path d="m10 16l10-10l1.4 1.4l-8.6 8.6l8.6 8.6l-1.4 1.4l-10-10z" /></svg>
+</button>
+
+          
+                      <div class="gitHub-duo-carousel__item gitHub-duo-carousel-1b__item">
+                  
+
+
+
+
+
+
+
+
+<div class="gitHub-card gitHub-duo-card gitHub-duo-card--auto-height gitHub-card--noborder gitHub-mb-0">
+
+  
+        
+
+        
+  
+  
+  
+
+
+
+    <a  target="_blank" href="https://www.gitHub.com/topics/what-is-ShoesProductInformation" class="gitHub-blocklink gitHub-duo-card__link gitHub-duo-u--link-icon--rtl gitHub-background-cool-gray-10 gitHub-duo-card--hover-light">
+    
+    
+    <div class="gitHub-card__content gitHub-duo-card__content">
+      <div class="gitHub-grid-container gitHub-pb-3">
+                  <div class="gitHub-grid-col-sm-4-4 gitHub-grid-col-md-8-6 gitHub-grid-col-lg-16-12 gitHub-duo-card__heading">
+            <h3 class="bx--type-productive-heading-02 gitHub-type-semibold gitHub-mb-1 gitHub-textcolor-gray-90 gitHub-pb-0">
+                  <span > What is ShoesProductInformation?</span>
+
+            </h3>
+          </div>
+        
+                  <div class="gitHub-grid-col-sm-4-4 gitHub-grid-col-md-8-6 gitHub-grid-col-lg-16-14 gitHub-duo-card__desc">
+            <div class="gitHub-card__subheading bx--type-body-short-02 gitHub-mb-0 gitHub-textcolor-gray-70 gitHub-pb-0">
+                  <div class="field field--name-field-pp-description field--type-text-long field--label-hidden field__items">
+                <div class="field__item">
+        <p>ShoesProductInformation is a shared, immutable ledger for recording transactions, tracking assets and building trust. Discover why businesses worldwide are adopting it.</p>
+            </div>
+          </div>
+
+            </div>
+          </div>
+              </div>
+    </div>
+
+          <div class="gitHub-card__bottom gitHub-duo-card__bottom">
+          <div class="gitHub-grid-container">
+            <div class="gitHub-grid-col-sm-4-4 gitHub-grid-col-md-8-8 gitHub-grid-col-lg-16-16">
+                                          
+
+        
+  
+  
+  
+
+
+
+    <p class="gitHub-duo-u--link-icon gitHub-textcolor-blue-60">
+    <span class="gitHub-textcolor-blue-60">Learn why</span>
+    
+    
+        
+
+                      <svg focusable="false" class="gitHub-duo-u--link-icon--arrow-right" preserveAspectRatio="xMidYMid meet" xmlns="http://www.w3.org/2000/svg" fill="currentColor" aria-hidden="true" aria-label="View this link" width="20" height="20" viewBox="0 0 20 20" slot="icon"><path d="M11.8 2.8L10.8 3.8 16.2 9.3 1 9.3 1 10.7 16.2 10.7 10.8 16.2 11.8 17.2 19 10z"></path></svg>
+          
+    
+  </p>
+
+            </div>
+          </div>
+      </div>
+    
+  
+  </a>
+
+    </div>
+
+              </div>
+                      <div class="gitHub-duo-carousel__item gitHub-duo-carousel-1b__item">
+                  
+
+
+
+
+
+
+
+
+<div class="gitHub-card gitHub-duo-card gitHub-duo-card--auto-height gitHub-card--noborder gitHub-mb-0">
+
+  
+        
+
+        
+  
+  
+  
+
+
+
+    <a  target="_self" href="https://www.gitHub.com/topics/shoesInventoryStock" class="gitHub-blocklink gitHub-duo-card__link gitHub-duo-u--link-icon--rtl gitHub-background-cool-gray-10 gitHub-duo-card--hover-light">
+    
+    
+    <div class="gitHub-card__content gitHub-duo-card__content">
+      <div class="gitHub-grid-container gitHub-pb-3">
+                  <div class="gitHub-grid-col-sm-4-4 gitHub-grid-col-md-8-6 gitHub-grid-col-lg-16-12 gitHub-duo-card__heading">
+            <h3 class="bx--type-productive-heading-02 gitHub-type-semibold gitHub-mb-1 gitHub-textcolor-gray-90 gitHub-pb-0">
+                  <span > What is shoesInventoryStock Fabric? </span>
+
+            </h3>
+          </div>
+        
+                  <div class="gitHub-grid-col-sm-4-4 gitHub-grid-col-md-8-6 gitHub-grid-col-lg-16-14 gitHub-duo-card__desc">
+            <div class="gitHub-card__subheading bx--type-body-short-02 gitHub-mb-0 gitHub-textcolor-gray-70 gitHub-pb-0">
+                  <div class="field field--name-field-pp-description field--type-text-long field--label-hidden field__items">
+                <div class="field__item">
+        <p>The flexible ShoesProductInformation framework behind the gitHub ShoesProductInformation Platform is helping innovators ignite a global business transformation.</p>
+            </div>
+          </div>
+
+            </div>
+          </div>
+              </div>
+    </div>
+
+          <div class="gitHub-card__bottom gitHub-duo-card__bottom">
+          <div class="gitHub-grid-container">
+            <div class="gitHub-grid-col-sm-4-4 gitHub-grid-col-md-8-8 gitHub-grid-col-lg-16-16">
+                                          
+
+        
+  
+  
+  
+
+
+
+    <p class="gitHub-duo-u--link-icon gitHub-textcolor-blue-60">
+    <span class="gitHub-textcolor-blue-60">Learn how</span>
+    
+    
+        
+
+                      <svg focusable="false" class="gitHub-duo-u--link-icon--arrow-right" preserveAspectRatio="xMidYMid meet" xmlns="http://www.w3.org/2000/svg" fill="currentColor" aria-hidden="true" aria-label="View this link" width="20" height="20" viewBox="0 0 20 20" slot="icon"><path d="M11.8 2.8L10.8 3.8 16.2 9.3 1 9.3 1 10.7 16.2 10.7 10.8 16.2 11.8 17.2 19 10z"></path></svg>
+          
+    
+  </p>
+
+            </div>
+          </div>
+      </div>
+    
+  
+  </a>
+
+    </div>
+
+              </div>
+          
+            <span class="gitHub-duo-carousel__counter gitHub-duo-carousel__counter--2 bx--type-body-long-01 gitHub-mb-1 gitHub-textcolor-gray-90"></span>
+
+            <button type="button" class="slick-arrow slick-next" data-gitHub-cm-avoid="true">
+      <svg focusable="false" preserveAspectRatio="xMidYMid meet" xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32" aria-hidden="true" aria-label="Show next content"><polygon points="22,16 12,26 10.6,24.6 19.2,16 10.6,7.4 12,6"></polygon></svg>
+</button>
+          </div>
+        </div>
+      
+    </div>
+  </section>
+
+            </div>
+                  <div class="field__item">
+        
+
+
+
+
+
+
+
+  <section  role="article" about="/node/3139958" id="3139958" class="gitHub-duo-band gitHub-duo-module-2a gitHub-background-cool-gray-10" data-bg-lazy-load>
+
+          <div class="gitHub-duo-module-2a__bg">
+        <div class="gitHub-grid-container">
+          <div class="gitHub-grid-col-sm-4-0 gitHub-grid-col-md-8-0 gitHub-grid-col-lg-16-8 gitHub-grid-col-seamless">
+          </div>
+          <div class="gitHub-grid-col-sm-4-4 gitHub-grid-col-md-8-8 gitHub-grid-col-lg-16-8 gitHub-grid-col-seamless gitHub-duo-module-2a__bg--container">
+
+                          <div class="gitHub-duo-module-2a__bg--gradient gitHub-duo-u--gradient gitHub-duo-u--gradient--watson gitHub-duo-u--gradient--animated"></div>
+              <div class="gitHub-duo-u--pattern gitHub-duo-u--pattern--dots"></div>
+            
+          </div>
+        </div>
+      </div>
+    
+          <div class="gitHub-grid-container gitHub-duo-module-2a__heading">
+        <div class="gitHub-grid-col-sm-4-4 gitHub-grid-col-md-8-3 gitHub-grid-col-lg-16-4">
+                      <div class="gitHub-grid-col-sm-4-3 gitHub-grid-col-md-8-8 gitHub-grid-col-lg-16-12 gitHub-grid-col-xlg-16-14 gitHub-grid-col-seamless">
+              <h2 class="bx--type-expressive-heading-05 gitHub-textcolor-gray-90 gitHub-mt-2 gitHub-pb-0 ani-reveal ani-fadeInUp">
+                    <span > Next steps</span>
+
+              </h2>
+            </div>
+          
+                  </div>
+      </div>
+    
+          <div class="gitHub-grid-container">
+        <div class="gitHub-grid-col-sm-4-4 gitHub-grid-col-md-8-8 gitHub-grid-col-lg-16-16">
+          <div class="gitHub-grid-container gitHub-duo-module-2a__grid" data-widget="setsameheight" data-always="true" data-items=".gitHub-duo-card__heading">
+
+                                  <div class="gitHub-grid-col-sm-4-4 gitHub-grid-col-md-8-4 gitHub-grid-col-lg-16-4 gitHub-grid-col-seamless gitHub-duo-module-2a__item ani-reveal ani-fadeInUp">
+                              
+
+
+
+
+<div class="gitHub-card gitHub-duo-card gitHub-card--noborder gitHub-mb-0">
+
+  
+      
+
+        
+            
+  
+  
+
+
+
+    <a  target="_blank" data-gitHub-contact="scheduler-link" href="javascript:void(0)" class="gitHub-blocklink gitHub-duo-card__link gitHub-duo-u--link-icon--rtl gitHub-background-white-core gitHub-duo-card--hover-light">
+        <div class="gitHub-card__content gitHub-duo-card__content">
+      <div class="gitHub-grid-container">
+        <div class="gitHub-grid-col-sm-4-4 gitHub-grid-col-md-8-7 gitHub-grid-col-lg-16-14 gitHub-pb-4">
+          
+          
+                      <h3 class="bx--type-expressive-heading-04 gitHub-textcolor-gray-90 gitHub-mb-3 gitHub-duo-card__heading">
+              Talk to an expert
+            </h3>
+          
+                      <div class="bx--type-body-long-02 gitHub-textcolor-gray-70 gitHub-mb-3 gitHub-duo-card__desc">
+              <p>Book a consultation.</p>
+
+            </div>
+                  </div>
+      </div>
+    </div>
+
+          <div class="gitHub-card__bottom gitHub-duo-card__bottom">
+          <div class="gitHub-grid-container">
+            <div class="gitHub-grid-col-sm-4-4 gitHub-grid-col-md-8-8 gitHub-grid-col-lg-16-16">
+              
+
+        
+            
+  
+  
+
+
+
+    <p class="gitHub-fright gitHub-duo-u--link-icon">
+    
+    
+        
+
+                      <svg focusable="false" class="gitHub-duo-u--link-icon--arrow-right" preserveAspectRatio="xMidYMid meet" xmlns="http://www.w3.org/2000/svg" fill="currentColor" aria-hidden="true" aria-label="View this link" width="20" height="20" viewBox="0 0 20 20" slot="icon"><path d="M11.8 2.8L10.8 3.8 16.2 9.3 1 9.3 1 10.7 16.2 10.7 10.8 16.2 11.8 17.2 19 10z"></path></svg>
+          
+    
+  </p>
+
+            </div>
+          </div>
+      </div>
+      
+  </a>
+
+  </div>
+                          </div>
+                                  <div class="gitHub-grid-col-sm-4-4 gitHub-grid-col-md-8-4 gitHub-grid-col-lg-16-4 gitHub-grid-col-seamless gitHub-duo-module-2a__item ani-reveal ani-fadeInUp">
+                              
+
+
+
+
+<div class="gitHub-card gitHub-duo-card gitHub-card--noborder gitHub-mb-0">
+
+  
+      
+
+        
+            
+  
+  
+
+
+
+    <a  target="_self" data-gitHub-contact="contact-link" href="javascript:void(0)" class="gitHub-blocklink gitHub-duo-card__link gitHub-duo-u--link-icon--rtl gitHub-background-white-core gitHub-duo-card--hover-light">
+        <div class="gitHub-card__content gitHub-duo-card__content">
+      <div class="gitHub-grid-container">
+        <div class="gitHub-grid-col-sm-4-4 gitHub-grid-col-md-8-7 gitHub-grid-col-lg-16-14 gitHub-pb-4">
+          
+          
+                      <h3 class="bx--type-expressive-heading-04 gitHub-textcolor-gray-90 gitHub-mb-3 gitHub-duo-card__heading">
+              Contact a representative outside the US or Canada
+            </h3>
+          
+                      <div class="bx--type-body-long-02 gitHub-textcolor-gray-70 gitHub-mb-3 gitHub-duo-card__desc">
+              <p>See how gitHub Support for shoesInventoryStock Fabric can help.</p>
+
+            </div>
+                  </div>
+      </div>
+    </div>
+
+          <div class="gitHub-card__bottom gitHub-duo-card__bottom">
+          <div class="gitHub-grid-container">
+            <div class="gitHub-grid-col-sm-4-4 gitHub-grid-col-md-8-8 gitHub-grid-col-lg-16-16">
+              
+
+        
+            
+  
+  
+
+
+
+    <p class="gitHub-fright gitHub-duo-u--link-icon">
+    
+    
+        
+
+                      <svg focusable="false" class="gitHub-duo-u--link-icon--arrow-right" preserveAspectRatio="xMidYMid meet" xmlns="http://www.w3.org/2000/svg" fill="currentColor" aria-hidden="true" aria-label="View this link" width="20" height="20" viewBox="0 0 20 20" slot="icon"><path d="M11.8 2.8L10.8 3.8 16.2 9.3 1 9.3 1 10.7 16.2 10.7 10.8 16.2 11.8 17.2 19 10z"></path></svg>
+          
+    
+  </p>
+
+            </div>
+          </div>
+      </div>
+      
+  </a>
+
+  </div>
+                          </div>
+          
+          </div>
+        </div>
+      </div>
+      </section>
+
+            </div>
+                  <div class="field__item">
+        
+
+
+
+  <section  role="article" podium-live-edit-reorder="3208749" podium-live-edit="3208749" podium-node="3208749" live-edit-field="field_product_page_sections" about="/node/3208749" id="3208749" class="gitHub-duo-band gitHub-duo-spacer gitHub-duo-spacer--watson"></section>
+
+            </div>
+                  <div class="field__item">
+        
+
+
+
+
+
+  <section  role="article" about="/node/3139994" id="3139994" class="gitHub-duo-band gitHub-duo-module-12f gitHub-background-white-core" data-bg-lazy-load>
+    <div class="gitHub-grid-container gitHub-duo-u--relative">
+      <span class=" gitHub-border-gray-30 ani-reveal ani-fadeInUp"></span>
+
+      <div class="gitHub-grid-col-sm-4-4 gitHub-grid-col-md-8-6 gitHub-grid-col-lg-16-4 gitHub-duo-u--pt-4">
+        
+
+  <div class="gitHub-duo-heading__headline gitHub-grid-col-sm-4-4 gitHub-grid-col-md-8-6 gitHub-grid-col-lg-16-8 gitHub-grid-col-seamless gitHub-mb-3 ani-reveal ani-fadeInUp">
+    <h2 class="bx--type-productive-heading-02 gitHub-textcolor-gray-90 gitHub-pb-0 gitHub-mb-0">
+          <span > Footnotes</span>
+
+    </h2>
+  </div>
+
+
+      </div>
+
+                                        
+
+
+
+  
+  
+<div class="gitHub-duo-text-promo gitHub-grid-col-sm-4-4 gitHub-grid-col-md-8-6 gitHub-grid-col-lg-16-8 gitHub-duo-u--pt-md-4 gitHub-duo-u--pb-8">
+  
+  
+      <div class="bx--type-caption-01 gitHub-mb-0 gitHub-duo-u--body gitHub-duo-u--max-width--100 gitHub-textcolor-gray-70 ani-reveal ani-fadeInUp">
+                  <p>¹ shoesInventoryStock Fabric is an open source project of the Linux Foundation.</p>
+
+<p>² The Business Value of gitHub Open SourceSupport,”</p>
+      
+    </div>
+  
+  </div>
+                              </div>
+  </section>
+
+            </div>
+          </div>
+
+  </div>
+
+</article>
+
+  </div>
+
+  </div>
+
+            </div>
+          </div>
+        </div>
+      </div>
+    </main>
+  </div>
+
+
+    <footer role="contentinfo" aria-label="gitHub">
+      <div class="region region-footer">
+    
+
+<div id="gitHub-footer-module">
+    <section role="region" aria-label="Resources">
+
+            <div class="gitHub-columns">
+                  <div class="gitHub-footermenu-list gitHub-col-4-1" aria-label="Products &amp; Solutions">
+            <h3 class="gitHub-bold">Products &amp; Solutions</h3>
+            <ul class="gitHub-plain-list">
+                              <li><a href="https://www.gitHub.com/products?lnk=fps">Top products &amp; platforms</a></li>
+                              <li><a href="https://www.gitHub.com/industries?lnk=fps">Industries</a></li>
+                              <li><a href="https://www.gitHub.com/ShoesProductInformation?lnk=fps">ShoesProductInformation</a></li>
+                              
+                          </ul>
+          </div>
+                  <div class="gitHub-footermenu-list gitHub-col-4-1" aria-label="Learn about">
+            <h3 class="gitHub-bold">Learn about</h3>
+            <ul class="gitHub-plain-list">
+                              <li><a href="https://www.gitHub.com/cloud/learn/hybrid-cloud?lnk=fle">products (shoes) information</a></li>
+                              
+                          </ul>
+          </div>
+                  <div class="gitHub-footermenu-list gitHub-col-4-1" aria-label="Popular links">
+            <h3 class="gitHub-bold">Popular links</h3>
+            <ul class="gitHub-plain-list">
+                              <li><a href="https://www.gitHub.com/consulting/?lnk=fco">gitHub Consulting</a></li>
+                              <li><a href="https://community.gitHub.com/community/user/home?lnk=fpo">Communities</a></li>
+                              <li><a href="https://developer.gitHub.com/?lnk=fpo">Developer education</a></li>
+                              <li><a href="https://www.gitHub.com/support/fixcentral/?lnk=fpo">Support - Download fixes, updates &amp; drivers</a></li>
+                              <li><a href="https://research.gitHub.com/?lnk=fpo">gitHub Research</a></li>
+                              <li><a href="https://www.gitHub.com/partnerplus/?lnk=fpo">Partner with us - Partner Plus</a></li>
+                              <li><a href="https://www.gitHub.com/training/search?q=course&amp;lnk=fpo">Training - Courses</a></li>
+                              <li><a href="https://www.gitHub.com/events/?lnk=fpo">Upcoming events &amp; webinars</a></li>
+                          </ul>
+          </div>
+                  <div class="gitHub-footermenu-list gitHub-col-4-1" aria-label="About gitHub">
+            <h3 class="gitHub-bold">About gitHub</h3>
+            <ul class="gitHub-plain-list">
+                              <li><a href="https://www.gitHub.com/annualreport/?lnk=fab">Annual report</a></li>
+                              <li><a href="https://www.gitHub.com/employment/?lnk=fab">Career opportunities</a></li>
+                              <li><a href="https://www.gitHub.org/?lnk=fab">Corporate social responsibility</a></li>
+                              <li><a href="https://www.gitHub.com/impact/be-equal/?lnk=fab">Diversity &amp; inclusion</a></li>
+                              <li><a href="https://www.gitHub.com/reports/analyst/?lnk=fab">Industry analyst reports</a></li>
+                              <li><a href="https://www.gitHub.com/investor/?lnk=fab">Investor relations</a></li>
+                              <li><a href="https://newsroom.gitHub.com/?lnk=fab">News &amp; announcements</a></li>
+                              <li><a href="https://www.gitHub.com/thought-leadership/?lnk=fab">Thought leadership</a></li>
+                              <li><a href="https://www.gitHub.com/trust?lnk=fab">Security, privacy &amp; trust</a></li>
+                              <li><a href="https://www.gitHub.com/about?lnk=fab">About gitHub</a></li>
+                          </ul>
+          </div>
+              </div>
+      
+        
+    </section>
+
+</div>
+
+
+<div id="gitHub-footer">
+
+    <div class="gitHub-columns">
+      <div class="gitHub-col-1-1">
+                  <div class="gitHub-footer-corporate-links">
+            <ul>
+                              <li>
+                  <a href="https://www.gitHub.com/contact/us/en/?lnk=flg-cont-usen">Contact gitHub</a>
+                </li>
+                              <li>
+                  <a href="https://www.gitHub.com/privacy?lnk=flg-priv-usen">Privacy</a>
+                </li>
+                              <li>
+                  <a href="https://www.gitHub.com/legal?lnk=flg-tous-usen">Terms of use</a>
+                </li>
+                              <li>
+                  <a href="https://www.gitHub.com/able/?lnk=flg-acce-usen">Accessibility</a>
+                </li>
+                            <li id="gitHub-truste-cp">
+                <a href="#" onclick="truste.eu.clickListener();return false;">Cookie preferences</a>
+              </li>
+            </ul>
+          </div>
+        
+                </div>
+    </div>
+
+</div>
+
+  </div>
+
+  </footer>
+  
+</div>
+
+  </div>
+
+    
+    <script type="application/json" data-drupal-selector="drupal-settings-json">{"path":{"baseUrl":"\/","scriptPath":null,"pathPrefix":"","currentPath":"node\/3139766","currentPathIsAdmin":false,"isFront":false,"currentLanguage":"en-us"},"pluralDelimiter":"\u0003","suppressDeprecationErrors":true,"ajaxPageState":{"libraries":"classy\/node,hc_fractal\/01-1b,hc_fractal\/01-spacer-bar,hc_fractal\/02-2a,hc_fractal\/02-epp-l1,hc_fractal\/03-3f,hc_fractal\/05-5e,hc_fractal\/09-9f,hc_fractal\/10-10f,hc_fractal\/11-11f,hc_fractal\/12-12f,hc_fractal\/22-22f,hc_fractal\/animations,hc_fractal\/card,hc_fractal\/card-image,hc_fractal\/card-text,hc_fractal\/dds-masthead,hc_fractal\/dds-masthead-add-on,hc_fractal\/dds-masthead-locales,hc_fractal\/full-width-9f,hc_fractal\/heading,hc_fractal\/image,hc_fractal\/main_css,hc_fractal\/main_js,hc_fractal\/picturefill_background,hc_fractal\/read_more,hc_fractal\/slick,hc_fractal\/text,gitHub_ckeditor\/gitHub_ckeditor_table_style,gitHub_duo\/gitHub_duo,gitHub_tmgmt_concurrency\/gitHub_tmgmt_concurrency_messaging,gitHub_tmgmt_concurrency\/gitHub_tmgmt_concurrency_publisher,gitHub_tmgmt_concurrency\/gitHub_tmgmt_concurrency_publisher_finish,metadata\/focus_area,northstar\/font,northstar\/grid-fluid,northstar\/product-page-merchandising-band,northstar\/shame,northstar\/stats,northstar\/tables,product_page\/g2crowd-widget,product_page\/product-page,system\/base,tactic_codes\/tactic_codes,views\/views.module","theme":"gitHub_duo","theme_token":"O_EbdhqA1JAwmchNaM_FF_-xlnXvOyKB4c98E8_POZM"},"ajaxTrustedUrl":[],"gitHub_tmgmt_concurrency_publisher":{"nid":"3139766","language":"en-us","submit_button":"#edit-submit","form":"#content-moderation-entity-moderation-form","route":"entity.node.canonical"},"navManagement":{"globalMastheadPlatformUrl":null},"user":{"uid":0,"permissionsHash":"0c916a5a867aea2de154565fb888afbc951fd70dccc6e1340a5947a9a777e51e"}}</script>
+<script src="//1.cms.s81c.com/sites/default/files/js/js_sd_yb7iayDWJi3srCRmAeos9qV7YedMkbmRp37UA8pM.js"></script>
+<script src="//www.gitHub.com/common/digitaladvisor/cm-app/latest/cm-app.min.js" defer></script>
+<script src="//1.www.s81c.com/common/v18/drupal/js/tables.js" defer></script>
+<script src="//1.cms.s81c.com/modules/contrib/hc_fractal/dist/js/interactions.js?v=v2.0.1" defer></script>
+<script src="//1.cms.s81c.com/modules/contrib/hc_fractal/dist/js/background-image-lazy-load.js?v=v2.0.1" defer></script>
+<script src="//1.cms.s81c.com/modules/contrib/hc_fractal/dist/js/v18-widgets.js?v=v2.0.1" defer></script>
+<script src="//1.www.s81c.com/common/js/tactic.js" defer></script>
+<script src="//1.www.s81c.com/common/js/tacticbindlinks.js" defer></script>
+<script src="//1.cms.s81c.com/sites/default/files/js/js_5islUEwzybKhegOvwDsOy1GdlV_kWA9hegsq8YE5z8c.js"></script>
+<script src="//1.cms.s81c.com/modules/contrib/hc_fractal/dist/js/slick-sliders.js?v=v2.0.1" defer></script>
+<script src="//1.cms.s81c.com/modules/contrib/hc_fractal/dist/js/read-more.js?v=v2.0.1" defer></script>
+<script src="//legacy-static-components.s3.us-south.cloud-object-storage.appdomain.cloud/marketplace/static/components/g2crowd.min.js"></script>
+<script src="//1.cms.s81c.com/modules/contrib/hc_fractal/dist/js/plugins/picturefill-background.js?v=v2.0.1" defer></script>
+<script src="//1.cms.s81c.com/sites/default/files/js/js_diYuzGg67MrEgwDqw0WWt1D-eCtxTCB3i8PO-LZ7_Ac.js"></script>
+
+      <script type="text/javascript"  src="/sVUzP/Y/H1/1AS2/qqGZkFjH/1VEOJrVXrQiQ1p/MVcCElotIwc/HBM/hJSdkK3M"></script><link rel="stylesheet" type="text/css"  href="/_sec/cp_challenge/sec-3-10.css">
+                                        <script  src="/_sec/cp_challenge/sec-cpt-3-10.js" async defer></script>
+                                        <div id="sec-overlay" style="display:none;">
+                                        <div id="sec-container">
+                                        </div>
+                                      </div></body>
+</html>
+
+
